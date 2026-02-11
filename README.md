@@ -177,41 +177,53 @@ Commitments + Metrics → Charts (Plotly) → Microsite (Next.js)
 ### Prerequisites
 - Node.js 18+
 - Python 3.10+
-- Supabase account
-- OpenAI API key
-- AWS account (for hosting)
+- OpenAI API key (add to `.env.local`)
+- AWS account (optional, for hosting)
 
-### Automated Setup
+### Supabase Project (Already Set Up ✅)
 
-1. **Create Supabase project:**
-   - Go to https://app.supabase.io
-   - Create new project: "executive-intelligence-brief"
-   - Save your credentials (URL, anon key, service_role key)
+**Project:** executive-intelligence-brief  
+**URL:** https://easyazauclbtxgkxyfbe.supabase.co  
+**Dashboard:** https://supabase.com/dashboard/project/easyazauclbtxgkxyfbe
 
-2. **Run setup script:**
+Credentials are in `.env.local` - just add your OpenAI API key!
+
+### Supabase Project (Already Set Up)
+
+**Project:** executive-intelligence-brief  
+**URL:** https://easyazauclbtxgkxyfbe.supabase.co  
+**Project Ref:** easyazauclbtxgkxyfbe  
+**Dashboard:** https://supabase.com/dashboard/project/easyazauclbtxgkxyfbe
+
+**Credentials are in `.env.local`** - Do not commit this file!
+
+### Setup Steps
+
+1. **Install dependencies:**
 ```bash
-git clone git@github.com:ServiceSync-AI/executive-intelligence-brief.git
-cd executive-intelligence-brief
-./setup.sh
+# Python
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
+# Node (for microsite)
+cd app && npm install && cd ..
 ```
 
-The script will:
-- Create `.env.local` with your credentials
-- Install Python dependencies
-- Install Node dependencies
-- Test configuration
-
-3. **Apply database schema:**
+2. **Add your OpenAI API key to `.env.local`:**
 ```bash
-supabase login
-supabase link --project-ref YOUR_PROJECT_REF
-supabase db push
+OPENAI_API_KEY=sk-your-key-here
 ```
 
-4. **Create storage buckets:**
-   - In Supabase Studio → Storage
-   - Create `raw-docs` (private)
-   - Create `assets` (public)
+3. **Verify Supabase connection:**
+```bash
+python ingest/ingest_smoke.py
+```
+
+4. **Check storage buckets exist:**
+   - Go to https://supabase.com/dashboard/project/easyazauclbtxgkxyfbe/storage/buckets
+   - Should see: `raw-docs` (private) and `assets` (public)
+   - If not, create them in Supabase Studio → Storage
 
 5. **Start processing data:**
 ```bash
