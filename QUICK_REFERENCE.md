@@ -1,5 +1,13 @@
 # Quick Reference - Executive Intelligence Brief
 
+## 🎯 What This Is
+
+Transform 72 NADA meeting documents into an Executive Intelligence Brief showing the execution gap in automotive service operations. Reveals where knowledge exists but continuity breaks down.
+
+**Key Insight:** The industry doesn't lack best practices. Execution breaks between meetings, departments, and shifts. The system doesn't remember.
+
+---
+
 ## 📍 Locations
 
 **GitHub:** https://github.com/ServiceSync-AI/executive-intelligence-brief  

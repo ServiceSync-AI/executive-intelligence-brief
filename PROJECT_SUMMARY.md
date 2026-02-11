@@ -1,5 +1,15 @@
 # Executive Intelligence Brief - Project Setup Summary
 
+## 🎯 What This Project Does
+
+**The Problem:** Automotive service departments know the best practices but execution breaks down between meetings, departments, and shifts. Knowledge exists. Continuity doesn't.
+
+**The Solution:** Transform 72 NADA meeting documents into an interactive Executive Intelligence Brief that reveals the execution gap — showing where the system breaks and what dealers are ready for.
+
+**The Goal:** Establish ServiceSync as "the people who see the system" by delivering intelligence no one else extracted.
+
+---
+
 ## ✅ COMPLETE - Ready for Development
 
 ---

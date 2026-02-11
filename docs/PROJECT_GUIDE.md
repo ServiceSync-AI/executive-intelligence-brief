@@ -6,14 +6,40 @@
 
 ## 📋 Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Phase 1: Setup (Complete)](#phase-1-setup)
-3. [Phase 2: Ingestion Pipeline](#phase-2-ingestion-pipeline)
-4. [Phase 3: Knowledge Extraction](#phase-3-knowledge-extraction)
-5. [Phase 4: Visualizations](#phase-4-visualizations)
-6. [Phase 5: Microsite](#phase-5-microsite)
-7. [Phase 6: Deployment](#phase-6-deployment)
-8. [Reference Documentation](#reference-documentation)
+1. [What This Project Does](#what-this-project-does)
+2. [Project Overview](#project-overview)
+3. [Phase 1: Setup (Complete)](#phase-1-setup)
+4. [Phase 2: Ingestion Pipeline](#phase-2-ingestion-pipeline)
+5. [Phase 3: Knowledge Extraction](#phase-3-knowledge-extraction)
+6. [Phase 4: Visualizations](#phase-4-visualizations)
+7. [Phase 5: Microsite](#phase-5-microsite)
+8. [Phase 6: Deployment](#phase-6-deployment)
+9. [Reference Documentation](#reference-documentation)
+
+---
+
+## What This Project Does
+
+**The Problem:**  
+Automotive service departments have all the knowledge (best practices, SOPs, training). But execution breaks down between meetings, departments, and shifts. The system doesn't remember. People are forced to manually maintain accountability.
+
+**The Solution:**  
+Transform 72 NADA 20 Group meeting documents into an Executive Intelligence Brief — a single-page interactive website that reveals:
+- What the room agreed on (alignment exists)
+- What playbooks already cover (knowledge isn't the constraint)
+- Where performance still varies (execution is the gap)
+- Where the system breaks (between meetings, departments, systems)
+- What dealers are ready for (continuity, not more meetings)
+
+**The Goal:**  
+Establish ServiceSync as "the people who see the system" by delivering intelligence that makes Greg (the moderator) and service managers say: *"This person understands what happens between meetings."*
+
+**Key Deliverables:**
+1. Conversation heatmap (topics × time)
+2. Dealer commitment matrix (themes × dealers)
+3. Knowledge topics index (10-15 canonical topics)
+4. Performance variance analysis (anonymous distributions)
+5. Execution gap diagram (where the system breaks)
 
 ---
 
