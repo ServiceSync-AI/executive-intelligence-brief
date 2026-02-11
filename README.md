@@ -126,10 +126,14 @@ npm run dev
 
 ## 📚 Documentation
 
-- **[Developer Setup Guide](docs/DEV_SETUP.md)** - Step-by-step onboarding
-- **[Architecture Overview](docs/ARCHITECTURE.md)** - System design and data flow
-- **[Supabase Schema](supabase/migrations/)** - Database structure
-- **[API Documentation](docs/API.md)** - Endpoints and data models
+- **[README.md](README.md)** - Project overview and quick start
+- **[docs/PROJECT_GUIDE.md](docs/PROJECT_GUIDE.md)** - Complete phase-by-phase implementation guide
+- **[docs/DEV_SETUP.md](docs/DEV_SETUP.md)** - Developer onboarding (30-60 min)
+- **[docs/ROADMAP.md](docs/ROADMAP.md)** - Project phases and milestones
+- **[docs/WORKFLOWS.md](docs/WORKFLOWS.md)** - CI/CD setup instructions
+- **[docs/notion-reference/](docs/notion-reference/)** - Original Notion planning docs
+- **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Quick commands and paths
+- **[PROJECT_SUMMARY.md](PROJECT_SUMMARY.md)** - Complete project summary
 
 ---
 
