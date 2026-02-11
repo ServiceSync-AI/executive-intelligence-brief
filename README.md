@@ -177,52 +177,55 @@ Commitments + Metrics → Charts (Plotly) → Microsite (Next.js)
 ### Prerequisites
 - Node.js 18+
 - Python 3.10+
-- Supabase account (get URL and service key)
+- Supabase account
 - OpenAI API key
+- AWS account (for hosting)
 
-### Setup
+### Automated Setup
 
-1. **Clone and install:**
+1. **Create Supabase project:**
+   - Go to https://app.supabase.io
+   - Create new project: "executive-intelligence-brief"
+   - Save your credentials (URL, anon key, service_role key)
+
+2. **Run setup script:**
 ```bash
 git clone git@github.com:ServiceSync-AI/executive-intelligence-brief.git
 cd executive-intelligence-brief
-
-# Python environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
-
-# Node dependencies
-cd app
-npm install
-cd ..
+./setup.sh
 ```
 
-2. **Configure environment:**
-```bash
-cp .env.example .env.local
-# Edit .env.local with your keys
-```
+The script will:
+- Create `.env.local` with your credentials
+- Install Python dependencies
+- Install Node dependencies
+- Test configuration
 
-3. **Set up Supabase:**
+3. **Apply database schema:**
 ```bash
-# Apply database migrations
 supabase login
 supabase link --project-ref YOUR_PROJECT_REF
 supabase db push
 ```
 
-4. **Run ingestion (test):**
+4. **Create storage buckets:**
+   - In Supabase Studio → Storage
+   - Create `raw-docs` (private)
+   - Create `assets` (public)
+
+5. **Start processing data:**
 ```bash
-python ingest/ingest.py --file ./sample-data/test-agenda.pdf
+source venv/bin/activate
+python ingest/ingest.py --directory data/nada-jan-2026
 ```
 
-5. **Start microsite:**
-```bash
-cd app
-npm run dev
-# Open http://localhost:3000
-```
+6. **Set up AWS hosting:**
+   - See [AWS Amplify Setup Guide](docs/AWS_AMPLIFY_SETUP.md)
+   - Or use Vercel: `cd app && vercel deploy`
+
+### Manual Setup
+
+If you prefer manual setup, see [Developer Setup Guide](docs/DEV_SETUP.md).
 
 ---
 
