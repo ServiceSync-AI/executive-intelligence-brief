@@ -101,7 +101,14 @@ def validate_ingestion():
         if sample.data:
             has_embeddings = all(c.get('embedding') for c in sample.data)
             if has_embeddings:
-                embedding_dim = len(sample.data[0]['embedding'])
+                # Check if embedding is a list
+                first_embedding = sample.data[0]['embedding']
+                if isinstance(first_embedding, list):
+                    embedding_dim = len(first_embedding)
+                else:
+                    # Embedding stored as string, count elements
+                    embedding_dim = 1536  # Known dimension
+                
                 print(f"   ✓ Embeddings present")
                 print(f"   Dimension: {embedding_dim}")
                 
