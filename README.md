@@ -2,6 +2,11 @@
 
 **Transform meeting artifacts into operator-grade intelligence**
 
+**🌐 Live Site:** http://gc06-servicesync.s3-website-us-east-1.amazonaws.com  
+**🔗 Custom Domain:** https://gc06.servicesync.io (configure Cloudflare DNS)
+
+**Status:** ✅ DEPLOYED - All 6 phases complete!
+
 ---
 
 ## 🎯 What Is This?
