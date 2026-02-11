@@ -1,4 +1,4 @@
-import { getTopics, getCommitments, getMetrics } from './lib/data'
+import { getTopics, getCommitments, getMetrics } from '../lib/data'
 
 export default async function Home() {
   const topics = await getTopics()
