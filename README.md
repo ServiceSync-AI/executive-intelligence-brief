@@ -2,20 +2,122 @@
 
 **Transform meeting artifacts into operator-grade intelligence**
 
-A reproducible pipeline that turns NADA 20 Group meeting materials (agendas, notes, SOPs, transcripts) into a forwardable Executive Intelligence Brief microsite.
+---
+
+## 🎯 What Is This?
+
+**The Problem:**  
+You attended a NADA 20 Group meeting with 40+ automotive service managers. Two days of discussions, best practices, dealer presentations, and commitments. Tons of valuable insights... but they fade after the meeting. Knowledge doesn't stick. Execution drifts.
+
+**What We're Building:**  
+A single-page interactive website (Executive Intelligence Brief) that extracts and visualizes the patterns NO ONE ELSE SAW from those 72 meeting documents.
+
+**The Insight:**  
+The automotive service industry doesn't lack knowledge. Every dealer knows the best practices:
+- Video MPIs increase hours per RO
+- Stall discipline improves tech productivity  
+- Sales-to-service handoffs retain customers
+- Daily huddles drive accountability
+
+**The Real Problem:**  
+Execution breaks down BETWEEN meetings, BETWEEN departments, BETWEEN shifts. The system doesn't remember. People are forced to manually maintain accountability.
+
+**What This Brief Shows:**
+1. **What the room agreed on** - Topics that surfaced repeatedly (alignment exists)
+2. **What playbooks already cover** - Knowledge isn't the constraint
+3. **Where performance still varies** - Same knowledge, different outcomes
+4. **Where execution quietly breaks** - Between meetings, departments, systems
+5. **What this group is ready for** - Continuity, not more meetings
+
+**The Goal:**  
+Establish ServiceSync as "the people who see the system" by delivering intelligence that makes Greg (the moderator) and service managers say: *"This person understands what happens between meetings."*
+
+Not a sales pitch. Not a recap. **Operational intelligence that reveals the execution gap.**
 
 ---
 
-## 🎯 Project Overview
+## 🏭 The Industry Context
 
-This system processes raw meeting documents and generates:
-- Structured knowledge index with canonical topics
-- Dealer commitment tracking mapped to execution themes
-- Performance metrics and variance analysis
-- Interactive visualizations (heatmaps, matrices, charts)
-- Single-page microsite presenting executive intelligence
+**NADA 20 Groups:**  
+Peer groups of 15-20 automotive dealerships that meet quarterly to share performance data, best practices, and operational challenges. Facilitated by consultants like Greg Joutras.
 
-**Goal:** Establish credibility by surfacing patterns no one else extracted — not as a sales pitch, but as operational intelligence.
+**Key Metrics They Track:**
+- **Service Absorption** - % of dealership overhead covered by service department (target: 70-90%)
+- **Hours per RO** - Billable labor hours per customer visit (Quick Lane: 1.6, Main Shop: 3.2)
+- **Technician Proficiency** - Actual hours worked vs available (range: 76-169%)
+- **Parts Inventory Turn** - How fast parts sell (optimal: 40-60%)
+- **Service Retention** - % of customers returning (target: 90%, actual: 70-85%)
+
+**Pain Points We Discovered:**
+- Phone handling and scheduling (AI adoption starting)
+- Video MPI implementation (tech resistance)
+- Postponed service follow-up (tracking breaks down)
+- Reconditioning speed (service/used car trust issues)
+- Daily accountability (manual whiteboards and huddles)
+
+**The Pattern:**  
+High-performing stores compensate with constant leadership presence, whiteboards, radios, and manual follow-up. **That effort should be permanent, not heroic.**
+
+---
+
+## 📊 What We're Extracting from 72 Files
+
+**Source Materials:**
+- 25 PDFs (agendas, handouts, performance data)
+- 13 DOCX (meeting notes, transcripts, strategic docs)
+- 27 extracted data files (metrics, commitments)
+- 1 roster image
+- 2 knowledge indexes
+
+**What We're Building:**
+
+### 1. Conversation Heatmap
+Visual showing which topics consumed the most discussion time across the 2-day meeting.  
+**Insight:** "Some issues consumed disproportionate mental energy."
+
+### 2. Dealer Commitment Matrix
+Grid showing which dealers committed to which execution themes post-meeting.  
+**Insight:** "Execution priorities captured directly from the room."
+
+### 3. Knowledge Topics Index
+10-15 canonical topics with evidence traceability back to source documents.  
+**Insight:** "What the industry already knows how to do."
+
+### 4. Performance Variance Analysis
+Anonymous distributions showing outcome spreads despite shared knowledge.  
+**Insight:** "Same ideas present, but results differ. That variance is the signal."
+
+### 5. Execution Gap Diagram
+Visual showing where the system breaks: Decision → Owner → Action → Measurement → Follow-up.  
+**Insight:** "Most failures occur between steps, not within them."
+
+---
+
+## 🎯 The Deliverable
+
+**Format:** Single-page scroll-based microsite  
+**Tone:** Internal analyst, not marketing  
+**Design:** Minimalist, operator-credible, lots of whitespace  
+**Confidentiality:** Anonymous (dealer codes only, no names/PII in public version)
+
+**Sections:**
+1. Hero - "Two Days. 40+ Operators. One Pattern."
+2. The Room - Who was there (anonymous footprint)
+3. What the Room Agreed On - Alignment on topics
+4. What Playbooks Cover - Knowledge exists
+5. Where Performance Varies - Execution gap
+6. Dealer Commitments - Post-meeting priorities
+7. Where Execution Breaks - System failures
+8. What Group Is Ready For - The opportunity
+9. Closing - Attribution
+
+**Target Audience:**
+- Greg Joutras (consultant/moderator) - Can forward as "additional context"
+- Service managers - See themselves without being exposed
+- Dealer principals - Understand the execution gap
+
+**Success Metric:**  
+Greg forwards it. Dealers reference it. ServiceSync gets pilot conversations.
 
 ---
 
