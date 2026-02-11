@@ -1,7 +1,7 @@
 # Project Status
 
 **Last Updated:** 2026-02-11  
-**Overall Progress:** 18% (Phase 1 Complete, Phase 2 Started)  
+**Overall Progress:** 25% (Phase 1 Complete, Phase 2: 37.5%)  
 **GitHub Project:** https://github.com/orgs/ServiceSync-AI/projects/1  
 **Data Inventory:** [View organized files](data/nada-jan-2026/DATA_INVENTORY.md)
 
@@ -16,11 +16,13 @@
 - ✅ 72 NADA files loaded and organized (45 priority files identified)
 - ✅ GitHub Project board with 8 Phase 2 tasks
 - ✅ Data inventory and processing priority defined
+- ✅ PDF parser implemented (pdfplumber)
+- ✅ DOCX parser implemented (python-docx)
 
 **Next Up:**
-- Issue #2: Build PDF parser
-- Issue #3: Build DOCX parser
-- Issue #4: Build OCR parser
+- Issue #4: Build OCR parser (in progress)
+- Issue #5: Text chunking
+- Issue #6: Embeddings generation
 
 **Team:**
 - Frazier Horn (Lead) - frazier@servicesync.io
@@ -37,15 +39,15 @@
 
 ---
 
-## Phase 2: Ingestion Pipeline ⏳ 12.5%
-**Owner:** TBD  
+## Phase 2: Ingestion Pipeline ⏳ 37.5%
+**Owner:** Frazier + Kexin  
 **Target:** 2 weeks
 
 ### Week 1: Parsers
 - [x] [#1](https://github.com/ServiceSync-AI/executive-intelligence-brief/issues/1) Set up Supabase project ✅
-- [ ] [#2](https://github.com/ServiceSync-AI/executive-intelligence-brief/issues/2) PDF parser (`ingest/parsers/pdf_parser.py`)
-- [ ] [#3](https://github.com/ServiceSync-AI/executive-intelligence-brief/issues/3) DOCX parser (`ingest/parsers/docx_parser.py`)
-- [ ] [#4](https://github.com/ServiceSync-AI/executive-intelligence-brief/issues/4) OCR parser (`ingest/parsers/image_parser.py`)
+- [x] [#2](https://github.com/ServiceSync-AI/executive-intelligence-brief/issues/2) PDF parser (`ingest/parsers/pdf_parser.py`) ✅
+- [x] [#3](https://github.com/ServiceSync-AI/executive-intelligence-brief/issues/3) DOCX parser (`ingest/parsers/docx_parser.py`) ✅
+- [ ] [#4](https://github.com/ServiceSync-AI/executive-intelligence-brief/issues/4) OCR parser (`ingest/parsers/image_parser.py`) 🔄
 - [ ] [#5](https://github.com/ServiceSync-AI/executive-intelligence-brief/issues/5) Text chunking (`ingest/chunker.py`)
 
 ### Week 2: Integration
