@@ -1,0 +1,40 @@
+PAM AI - Parkway Chevrolet
+Kevin Stuckey
+
+KEY METRICS:
+Total Calls: 7,892
+Total Agents: 361
+Booking Rate: 69.42%
+Handle Rate: 66.74%
+Avg Resolution Rate: 66.83%
+
+TEAM PERFORMANCE:
+Total Accounts: 400
+Calls Answered: 413
+% of Resolution Rate: 97%
+Avg Resolution Time: 8.57h
+Seat Occupant: 0
+
+ACTIVE ADVISORS:
+Kevin Brumley - kevin.brumley@parkwaychevrolet.com - 202/202 - 100%
+Jordan - jordan@parkwaychevrolet.com - 178/178 - 44.1% - 100%
+MFPEJ - mfpej@parkwaychevrolet.com - 7/7 - 17% - 100%
+
+FEATURED CALLS:
+- Halle Spearman: Caller requested to schedule a service appointment for a battery replacement for her 2020 Kia Telluride. Service advisor confirmed and booked a diagnostic appointment.
+- William Lee: Caller requested to schedule a service appointment for his 2023 Chevy Silverado. Service advisor confirmed and booked a diagnostic appointment.
+- Brenda Negosado: Caller Brenda Negosado requested to schedule a service appointment for her 2020 Chevrolet Volt. Service advisor confirmed and booked a diagnostic appointment.
+
+CALL TYPES (View All):
+- Speak To Specific Human: 1337
+- Unclear Intent: 1279
+- Speak To Human on Parts: 1053
+- Speak To Human in Service: 1279
+- Others (8): 1684
+
+REASON FOR DROP-OFF (View All):
+- Requested Specific Advisor: 35%
+- Successfully Handled: 19%
+- Hung Up Immediately: 19%
+- Preferred a Human Agent: 9%
+- Others: 18%

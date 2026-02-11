@@ -1,0 +1,18 @@
+Riverton Chevrolet
+
+Parts special-order process
+
+Any part not available off the shelf or locally will be ordered.
+When the part Is available through the Denver PDC, it is ordered via a standard CSO.
+If the part is not available from the Denver PDC, it will be placed on an OVN order if
+available and the vehicle is remaining at the dealer or is down.
+Once the ordered part arrives at the dealership and is received into inventory, service
+advisors are notified, and each advisor receives a list of all CSO special-order parts twice
+weekly.
+Special-order parts will remain in the CSO bin until installed or for up to 45 days.
+Any special-order part not installed within 45 days will be sold to another customer or
+returned to GM.
+
+Please note that all wholesale and customer-pay parts must be prepaid prior to ordering.
+
+

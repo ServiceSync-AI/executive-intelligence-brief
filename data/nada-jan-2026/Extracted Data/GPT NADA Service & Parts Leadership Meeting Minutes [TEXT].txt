@@ -1,0 +1,721 @@
+Section 1: Meeting Priorities & Hot Topics
+
+1. Responding to Calls & Customer Communication (01)
+Core Issue:
+We are not answering phones or responding to customers fast enough in service.
+Key Challenges:
+	•	BDC is not functioning effectively.
+	•	Centrally located office causes calls to bounce between BDC and dealership.
+	•	Customers experience delays and frustration.
+	•	Phone systems are outdated and inefficient.
+Opportunities & Solutions:
+	•	Implement AI-driven phone trees (e.g., PAM AI).
+	•	Focus on managing the majority use cases, not edge cases.
+	•	AI allows rapid iteration and change (examples discussed from development boards).
+	•	Shift from outbound calling to text-first communication.
+	•	Vendors discussed: Matador, Toma.
+	•	Missed-call recovery:
+	•	System should auto-call back, take messages, and surface them on a dashboard.
+	•	Allow multiple people in the department to respond.
+	•	Emphasis on dealership-level customization.
+	•	CSI is not currently a major concern:
+	•	More positive than negative.
+	•	Integration considerations:
+	•	Tekion outreach and direct customer communication.
+
+2. Service & Manufacturer Retention (02)
+Service Retention:
+	•	Industry focus highlighted (Forbes reference).
+	•	Retention is where long-term profitability is built.
+Manufacturer Retention (GM Example):
+	•	First-year retention typically ranges 70–85%.
+	•	Goal should be as close to 90% as possible.
+	•	AI and proactive communication are critical levers to achieve this.
+Key Metric Reminder:
+	•	1396: The real money is in getting the customer back into the dealership.
+
+3. Scheduling & Shop Load Balance (05 / 06)
+General Observations:
+	•	Scheduling is not always the problem—capacity and talent often are.
+	•	Common realities:
+	•	Too much work some days, not enough others.
+	•	Cars sitting for days or weeks.
+	•	Large jobs become irrelevant when technician count and skill level are low.
+Advisor vs. System Perspective:
+	•	Advisors think differently than schedulers.
+	•	Advisors juggle multiple moving parts that scheduling systems don’t see.
+Key Challenges:
+	•	Limited time slots.
+	•	Difficulty balancing:
+	•	Appointment scheduling
+	•	Actual shop load and technician availability
+Discussion Points:
+	•	Bring vehicles in based on true availability, not just appointment volume.
+	•	Better alignment between scheduling and dispatch.
+
+4. Video MPI Adoption & Culture (04 / 17)
+Current State:
+	•	Most stores want to do Video MPIs but are not executing consistently.
+Barriers:
+	•	Cultural resistance.
+	•	Tech skepticism.
+	•	Fear of added workload.
+Best Practices Discussed:
+	•	Video quality matters:
+	•	No fly-by videos.
+	•	Use both video and still photos.
+	•	MPI quality directly increases sales.
+	•	Performance accountability:
+	•	Example discussed: If a tech completes under 80% of required videos, they are paid 80% of potential compensation.
+	•	Implementation strategies:
+	•	Start in Quick Lube, not the main shop.
+	•	Be mindful of social pressure and perception.
+	•	Staffing ideas:
+	•	Hire college students to assist with video MPIs.
+
+5. Technician Performance: Efficiency vs. Productivity (20)
+Core Question:
+How do we fix the gap between EFC and productivity?
+Reality:
+	•	Technician shortages limit leverage.
+	•	One-size-fits-all management does not work.
+Key Takeaways:
+	•	Every technician has a different personality:
+	•	Some respond to pressure.
+	•	Some require coaching.
+	•	Some require protection and support.
+	•	Effective management comes from time spent knowing your people.
+	•	Ties back to MPI execution and accountability.
+
+6. CP vs. Warranty Work (07)
+	•	Ongoing balance issue.
+	•	Impacts technician motivation, scheduling, and profitability.
+	•	No silver bullet—requires constant monitoring and communication.
+
+7. Tracking Postponed Repairs & Follow-Up (11)
+Problem:
+	•	Deferred work is not consistently tracked or followed up.
+Opportunity:
+	•	Systems should track postponed repairs and automatically update clients.
+	•	AI-driven follow-up can close revenue gaps without adding advisor workload.
+
+8. Technician Career Path & Training (14)
+Current State:
+	•	Informal mentoring exists but lacks structure.
+	•	Example referenced: Chevrolet-based programs.
+Challenges:
+	•	Dealers support apprentice systems.
+	•	BSTs are paid, but technicians are often not paid for web-based training.
+Need:
+	•	A clear, structured technician career path.
+	•	Compensation alignment with training and development.
+
+9. Reconditioning Process (21)
+Core Conflict:
+	•	Service vs. Used Car Department.
+Issues Identified:
+	•	Pricing ourselves out of proper reconditioning.
+	•	Used cars being retailed without necessary work.
+	•	Short-term savings lead to:
+	•	Customer dissatisfaction
+	•	Comebacks
+	•	Reduced vehicle value
+Key Question:
+	•	How much reconditioning comes back later and damages long-term profitability?
+
+10. Walk-Ins & Customer Expectations (23)
+Reality:
+	•	10–15 walk-ins out of ~80 RO’s daily.
+	•	Common walk-ins:
+	•	Oil changes
+	•	Rotations
+	•	Inspections
+	•	Customers who want to “wait for diagnosis”
+Key Principles:
+	•	Expectation-setting is the advisor’s responsibility.
+	•	Remove the word “wait” from the vocabulary.
+	•	Rule discussed:
+	•	Appointments = diagnosis guaranteed
+	•	Walk-ins = diagnosis not guaranteed
+Technology Discussion:
+	•	AI-assisted oil change scheduling.
+	•	Concern: ensuring a real human catches expectation-setting during the conversation.
+
+11. Cashier vs. Advisor Experience (26)
+Strong Consensus:
+	•	Remove cashier from the service flow.
+Best Practice:
+	•	The advisor should be the last person the customer sees.
+	•	Checkout should reinforce trust, not feel transactional.
+
+12. Communication Platforms & Tools
+DealerFX:
+	•	Dissatisfaction expressed.
+	•	Technician-side issues:
+	•	Entering recommendations is cumbersome.
+	•	Poor communication with parts department.
+Reynolds:
+	•	Technician and advisor cannot be in the same ticket simultaneously.
+	•	Slows communication and workflow.
+DealerLogix:
+	•	Viewed more favorably.
+	•	Benefits:
+	•	Better internal communication
+	•	Advisor-to-customer texting
+	•	Shared visibility—if one advisor doesn’t respond, others can
+	•	Multiple users in the same ticket simultaneously
+	•	Positive impact on retention and team collaboration.
+
+13. Parts Backlog & Walk-In Volume
+Challenges:
+	•	Blocking appointments to catch up on parts backlog creates more walk-ins.
+	•	Walk-ins negate backlog cleanup efforts.
+Reality:
+	•	Walk-ins often equal appointments daily.
+	•	Reinforces the importance of expectation-setting.
+
+14. Shop Practices & Accountability
+Daily / Weekly Practices:
+	•	Regular service and parts meetings.
+	•	Whiteboard tracking:
+	•	Technician hours
+	•	Advisor workload
+	•	Delivery list (crossed off throughout the day)
+Parts Coordination:
+	•	Review dispatcher log nightly:
+	•	Special-order parts
+	•	What arrived today / arriving tomorrow
+	•	Track:
+	•	Which car has which parts
+	•	Size and complexity
+	•	Assigned technician
+	•	Use this data to proactively update customers.
+	•	Example: If a tech has two 9-hour jobs, customer may not get vehicle back same day.
+	•	AI prediction discussed as future solution.
+Dispatch Tools:
+	•	Manual dispatch books and Excel sheets still widely used.
+
+15. Declines, Discounts & Financing
+Tracking Declines:
+	•	Monitor how many declines are due to discounts.
+	•	Discount impact should be shared:
+	•	Parts
+	•	Labor
+	•	Technician hours
+Best Practices:
+	•	T.O. every declined service.
+	•	Pitch financing instead of discounting.
+	•	Offer:
+	•	Loaner cars
+	•	Flexible terms
+	•	Avoid discounts when value can be added instead.
+
+16. Performance Transparency
+Rankings Sheet:
+	•	Track technician performance percentages vs. peers.
+	•	Used during raise discussions.
+	•	Creates clarity, accountability, and motivation.
+
+Section 2: Performance Drivers, Team Structure & Profit Levers
+(Composite Sessions + Idea Sessions + Steve’s Discussion)
+
+1. Consistency, Tenure & Turnover
+Observation:
+	•	Stores with long-tenured advisors outperform.
+	•	Example: newest advisor tenure = 6 years.
+	•	Consistency drives:
+	•	Better processes
+	•	Higher trust with customers
+	•	Stronger absorption
+Key Takeaway:
+	•	Retention of advisors and technicians is a financial strategy, not an HR issue.
+
+2. Financial Performance Benchmarks (Case Study – Alex, Store 41)
+Service Absorption:
+	•	Overall absorption: 87% (not fully absorbed yet)
+	•	Service department absorption: 43% (2nd highest in group)
+Gross & Profit Growth:
+	•	Service:
+	•	+$857K gross
+	•	+$525K profit
+	•	Parts:
+	•	+$943K sales
+	•	+$433K gross
+	•	$144K expenses
+	•	Gross significantly outpacing expense growth
+	•	+$145K additional net profit
+	•	Combined improvement: +$672K
+What’s Driving It:
+	•	Building two additional shops inside existing building.
+	•	Adding more lifts:
+	•	More capacity = more selling time.
+	•	Service manager’s job is to sell time, not just repairs.
+	•	Strong QC process:
+	•	Every vehicle QC’d at ~11 miles.
+	•	Eliminates comebacks.
+	•	Radios between:
+	•	Parts counter ↔ Quick Lube
+	•	Parts counter ↔ Parts Foreman
+	•	Radios outperform software for speed and clarity.
+Key Insight:
+	•	Sometimes simple tools outperform complex systems.
+	•	Opportunity to integrate or partner with existing communication hardware.
+
+3. Quick Lube as a Growth Engine (Steve – 11)
+Focus Areas:
+	•	Quick Lube improvement
+	•	Flushes and fluid exchanges
+	•	Stall management as a performance lever
+Stall Allocation Strategy:
+	•	Not all techs treated the same:
+	•	High performers may earn 2 stalls.
+	•	Underperformers lose stall access until productivity improves.
+	•	Stall allocation depends on:
+	•	Type of work
+	•	Technician efficiency
+	•	Parts wait times
+	•	Heavy line techs may need 2 stalls due to parts delays.
+	•	Suspension work typically does not.
+Culture Matters:
+	•	Balance positive and negative feedback.
+	•	Stall management reinforces accountability without confrontation.
+
+4. Dispatch Models & Advisor–Tech Alignment (Paul – 01)
+Previous Model:
+	•	Advisor teams with assigned technicians.
+	•	Four advisors, fixed tech assignments.
+New Model:
+	•	Centralized dispatch.
+	•	Every technician available to every advisor.
+	•	Dispatch tool: old-school paper.
+	•	Result:
+	•	Improved flow
+	•	Reduced bottlenecks
+	•	Increased fairness
+Used Car Team Impact:
+	•	Dedicated used car service team opened capacity for main shop.
+	•	Reduced internal competition for labor hours.
+
+5. Advisor Skill Gaps: Maintenance Selling (Brad – 05)
+Challenge:
+	•	Technicians are excellent at fixing vehicles.
+	•	Advisors struggle to recommend maintenance consistently.
+Action Items:
+	•	Measure:
+	•	How many advisors send menus
+	•	Inspection completion rate
+	•	Customer follow-up rate
+	•	Inspection process must include:
+	•	Customer delivery
+	•	Clear next steps
+	•	Follow-up communication
+
+6. Menu Strategy & Standardization
+Key Insight Across Stores:
+	•	Menus remove reliance on memory.
+	•	Structure beats talent alone.
+Examples:
+	•	Chevyland: standardized menus.
+	•	Ourisman: fully structured menu approach.
+	•	Emich:
+	•	Mileage-based menus
+	•	+19% utilization increase
+	•	Fixed Xtime/Reynolds workflow issues
+	•	+70% increase in return visits from undecided customers
+Takeaway:
+	•	Menus drive:
+	•	Consistency
+	•	Confidence
+	•	Higher hours per RO
+
+7. Team-Based Service Department Structures
+Used Car Service Team (Paul – 01):
+	•	Initial technician concern about losing work.
+	•	Structure:
+	•	3-person team:
+	•	Strong B-tech
+	•	Express tech
+	•	Strong C-tech
+	•	Flat-rate pay plan.
+	•	Internal advisor as dispatcher.
+	•	Results:
+	•	Increased used car throughput
+	•	Freed up main shop capacity
+	•	Improved overall efficiency
+Drive Teams (Chris – 23):
+	•	Advisors paired into teams of two.
+	•	Focus on upsells in the drive.
+
+8. Eliminating Analysis Paralysis (Brandy & Michael – 06)
+Message:
+	•	Ask hard questions:
+	•	What’s actually stopping productivity?
+	•	Leaders allow obstacles to become excuses.
+	•	Productivity gaps directly impact paychecks.
+Cultural Shift Required:
+	•	Stop protecting inefficiency.
+	•	Replace excuses with accountability and clarity.
+
+9. Quick Lube & Pay Plan Redesign (Emich – Austin)
+Changes Implemented:
+	•	Quick Lube structural redesign.
+	•	Flat-rate pay plan for express techs.
+	•	Clear accountability and throughput expectations.
+Result:
+	•	Higher utilization
+	•	Increased repeat visits
+	•	Stronger pipeline into main shop
+
+10. Service Lane as a Sales & Acquisition Channel (Dan – 21, Pine Belt)
+Opportunity:
+	•	Acquire vehicles directly in the service lane.
+Process:
+	•	Every serviced vehicle gets:
+	•	Mirror hanger
+	•	Letter
+	•	Check placed in glovebox
+	•	Advisor follows up the next day.
+Philosophy:
+	•	Sales sells the car.
+	•	Service is the honeymoon.
+	•	Service brings the customer back into the marriage.
+Operational Tip:
+	•	Cherry-pick ROs the night before:
+	•	Focus on vehicles with real opportunity (e.g., 2019 Equinox vs. 2025 model).
+
+11. Advisor Efficiency & Training ROI (Brandon – 24)
+Program:
+	•	Chris Collins-led advisor training:
+	•	Walkarounds
+	•	Continuous online + in-store training
+Results:
+	•	CPEPR: $103
+	•	Hours per RO: +2.6
+	•	Investment: $100K
+	•	Return: $11M profit over 7 years
+Lesson:
+	•	Advisor training has one of the highest ROIs in the dealership.
+
+12. Fixed Ops Expansion via Collision (Penny – 26)
+Opportunities:
+	•	Battery tests
+	•	Alignment checks
+	•	Move drivable collision vehicles into service lane.
+Key Advantage:
+	•	Import collision data into DMS.
+	•	“Shake down” the car:
+	•	Identify additional service opportunities
+	•	Sell needed repairs and products
+
+13. Digital Engagement & Self-Scheduling (Alex – 41)
+Innovation:
+	•	QR code stickers on vehicles.
+	•	Customers can:
+	•	Watch videos of their vehicle
+	•	Schedule service online
+	•	Avoid phone calls entirely
+Impact:
+	•	Reduced inbound call volume.
+	•	Increased customer engagement and convenience.
+
+14. Gamification & Team Motivation (Running Ideas)
+Concepts Discussed:
+	•	Team-based service departments.
+	•	Gamified dashboards:
+	•	Points
+	•	Rankings
+	•	Rewards
+	•	Incentives tied to:
+	•	Process compliance
+	•	Results, not activity
+Customer Experience Goal:
+	•	Replace calls with:
+	•	Text
+	•	Status links
+	•	“Pizza tracker” style repair progress
+
+15. Steve’s Keys to Fixed Ops Success
+Foundational Elements:
+	•	Leadership
+	•	People
+	•	Processes
+	•	Motivating pay plans
+	•	Culture & environment
+	•	Management support
+	•	Training & career paths
+Key Observations:
+	•	Service advisors generate the most gross profit in the dealership.
+	•	They receive:
+	•	The least respect
+	•	The hardest job
+	•	Parts and service are the backbone of the business.
+
+16. Increasing Hours Per RO
+Primary & Secondary Menus
+	•	Train advisors on:
+	•	FAB selling:
+	•	Feature
+	•	Advantage
+	•	Benefit
+	•	Measure everything.
+	•	Hold people accountable.
+Supporting Tools:
+	•	Video MPIs
+	•	Payment options
+	•	Pre-selling from BDC (plant the seed)
+	•	Walkarounds
+	•	Vehicle history review
+	•	External credibility:
+	•	KBB.com
+	•	RepairPal.com
+
+17. Final Thought
+If sales closes the deal,
+service keeps the relationship alive.
+Our job as leaders is to:
+	•	Build systems that reward consistency
+	•	Remove friction between departments
+	•	Turn process discipline into profit
+	•	Give advisors and technicians the respect—and tools—they deserve
+
+Action Items:
+	•	Convert this into executive action items
+	•	Extract best practices by topic (Quick Lube, Dispatch, Menus, Teams)
+	•	Or map these insights into a fixed ops operating model
+Section 3: Execution, Efficiency & Fixed Ops Alignment
+(Final Day Takeaways, Group Discussion & Composite Session 2)
+
+1. The North Star: Hours per RO & Proficiency
+Primary Focus:
+	•	Increase Hours per RO across:
+	•	Main shop
+	•	Quick lube
+	•	Fill available technician hours every day.
+Key Metric: Proficiency Rating
+Hours Billed ÷ Hours Available
+	•	Applies to every technician, including lube techs.
+	•	Use the same calculation every time to establish a true benchmark.
+	•	Core question:
+	•	How is each technician filling an 8-hour day?
+Reality Check:
+	•	If a technician is sitting, we have failed the system.
+
+2. Quick Lube: Separate, Measure, Grow
+Key Takeaways:
+	•	Quick lube must be separate from main service, not blended.
+	•	Measure:
+	•	Hours per RO (Quick Lube)
+	•	Labor gross %
+	•	Upsells in the drive
+	•	Flat-rate structures and clear expectations outperform hourly ambiguity.
+Action Areas:
+	•	Increase upsells in quick lube.
+	•	Use quick lube as a feeder into main shop.
+	•	Track:
+	•	Quick lube hours per RO
+	•	Service gross per technician
+
+3. MPI Discipline: Video, Quality & Daily Focus
+Non-Negotiables:
+	•	Implement quality video MPI.
+	•	Focus on:
+	•	Clear explanations
+	•	Photos + video
+	•	No “fly-by” inspections
+Why It Matters:
+	•	Direct impact on:
+	•	Hours per RO
+	•	Customer trust
+	•	Advisor confidence
+Daily Execution:
+	•	Daily huddle:
+	•	Align team on hour targets
+	•	Identify gaps early
+	•	Set objectives for the day
+
+4. Declines, TOs & Manager Involvement
+Key Principles:
+	•	Declined service = manager opportunity, not lost cause.
+	•	Formal TO process in service must exist—just like sales.
+Best Practices:
+	•	Manager TO on:
+	•	Large declines
+	•	Safety items
+	•	Extended warranty confusion
+	•	Increase collections from extended warranties.
+	•	Change parts handling for extended warranty work to speed approvals and billing.
+
+5. Sales → Service Handoff & First-Visit Retention
+Critical Insight:
+	•	The first service visit determines lifetime retention.
+Action Items:
+	•	Improve sales-to-service handoff.
+	•	Why not introduce the customer to service before they leave sales?
+	•	Pre-call online appointments:
+	•	Confirm
+	•	Set expectations
+	•	Ask if customer wants to add anything
+
+6. Central Dispatch, Shop Foreman & Flow Control
+Group Consensus:
+	•	Keep advisors out of the shop.
+	•	One point of contact:
+	•	Shop foreman
+	•	Central dispatch
+Why:
+	•	Reduces chaos.
+	•	Improves technician focus.
+	•	Increases proficiency.
+Dispatch Models:
+	•	Central dispatch vs. team dispatch should be evaluated.
+	•	Used car techs across multiple stores consolidated into one location = efficiency gain.
+
+7. Culture, Accountability & Energy
+Hard Truths Discussed:
+	•	If the day starts at 8:
+	•	Are techs turning wrenches at 8 or walking in at 8?
+	•	If techs don’t want to stay late or add hours:
+	•	The system must make productivity achievable within the day.
+Accountability Tools:
+	•	Track hours turned daily.
+	•	Ask:
+	•	How many hours yesterday?
+	•	Why or why not?
+Positive Pressure:
+	•	Daily scoreboard:
+	•	Update at lunch
+	•	Post publicly
+	•	Red = behind pace
+	•	Competition drives performance.
+
+8. Flexible Schedules—With Guardrails
+Concept:
+	•	Allow flexible technician schedules if daily hour targets are met.
+Requirements:
+	•	Early-out techs must prepull parts the day before.
+	•	Later-start techs scheduled with later appointments.
+	•	Always ensure:
+	•	Shop foreman coverage
+	•	Visibility via cameras and communication tools
+
+9. Parts: The Hidden Driver of Proficiency
+9.1 Parts Preloading & Runners
+What Works:
+	•	Parts runners delivering to stalls.
+	•	Pre-pulling parts for the day.
+Common Objection:
+	•	“Parts get lost on the counter.”
+Reality:
+	•	Poor process, not bad concept.
+	•	Preloading parts is one of the biggest proficiency gains available.
+
+9.2 Special Order Parts = Dead Money Until Installed
+Problems Identified:
+	•	Special order parts sit uninstalled.
+	•	Appointments not set when parts arrive.
+	•	Inconsistent follow-up.
+Best Practices:
+	•	Review special order parts twice weekly (or daily via dashboard).
+	•	Track:
+	•	Date ordered
+	•	Date arrived
+	•	Appointment set
+	•	CDK “Blue Sheet” process:
+	•	Parts manager flags arrival
+	•	Advisor + BDC notified to schedule
+	•	Key insight:
+	•	Special order parts are dead dollars unless prepaid or installed.
+Opportunity:
+	•	AI-driven special order parts follow-up:
+	•	Texting
+	•	Calling
+	•	Appointment setting
+
+9.3 Lost Sales: Measure Demand, Not Gut
+Definition:
+	•	Lost sale = customer needed a part and went elsewhere.
+Key Metric:
+	•	Record lost sales as Hits, not failures.
+Critical Question:
+	•	What do we do with this data?
+What Should Happen:
+	•	Identify true demand.
+	•	Adjust stocking.
+	•	Align parts and service managers weekly.
+	•	Seasonal adjustments matter.
+Reminder:
+	•	It’s math.
+	•	Gut decisions get dealers in trouble.
+
+10. Parts Inventory, Turns & Investment Mindset
+Composite Session 2 Insights:
+	•	Measure both:
+	•	Unit term
+	•	Dollar term
+	•	Inventory dollar term:
+	•	Cost of sales ÷ current inventory
+	•	You may “turn inventory in 12 months” while still holding obsolete parts for 3 years.
+Key Mindset Shift:
+	•	Parts and service managers must think like investment managers, not order takers.
+
+11. Service’s Impact on Used Car Profitability
+Key Insight:
+	•	Used car manager is often service’s best customer.
+Critical Metrics:
+	•	What used cars spend with service vs. what gets wholesaled.
+	•	That delta is unrealized dealership profit.
+Recon Economics:
+	•	Total gross ÷ daily holding cost = breakeven days.
+	•	Service manager directly impacts:
+	•	Recon time
+	•	Days to breakeven
+	•	Average recon time discussed:
+	•	7–10 days
+	•	Best practice example:
+	•	3-day turnaround
+
+12. Service & Used Car Manager Relationship
+Principles:
+	•	Guardrails are required—it’s dealer money.
+	•	Incentives must align:
+	•	Used car tech bonuses tied to recon cost targets.
+	•	Used car managers potentially paid on internal shop work.
+Best-in-Class Process (Chevyland Example):
+	•	UVI appraisal through service drive.
+	•	Full scan on all makes/models.
+	•	Repairs estimated before inventory decision.
+	•	Trust-based workflow between:
+	•	Appraisal
+	•	Service manager
+	•	Used car techs
+
+13. Foundational Operating Disciplines
+Non-Negotiables:
+	•	Daily huddles
+	•	Daily parts sheets
+	•	Continuous onboarding process
+	•	Internal technician development pipeline
+	•	Ongoing advisor best-practice training
+Core Objective:
+Grow revenue and gross faster than expenses
+Do more with what we already have.
+Most dealers are already paying for the tools.
+They’re just not using them correctly.
+
+Final Thought
+Fixed Ops success does not come from new ideas.
+It comes from relentless execution of the basics:
+	•	Hours per RO
+	•	Proficiency
+	•	Parts readiness
+	•	Clear ownership
+	•	Strong handoffs
+	•	Aligned incentives
+When service and parts operate as one department,
+the dealership wins.
+
+Action Items:
+	•	Convert Section 3 into a daily operating playbook
+	•	Extract KPIs & dashboards implied by this discussion
+	•	Or translate this directly into ServiceSync product implications
+

@@ -58,17 +58,15 @@
 
 ## 🔐 Confidentiality
 
-**CRITICAL:** These files contain:
-- Dealer performance data
-- Personal contact information
-- Proprietary processes
-- Strategic discussions
+**Note:** This is a private repository within the ServiceSync-AI organization.
+
+All NADA meeting files are included in the repository for team access and processing.
 
 **Security Measures:**
-- ✅ Excluded from git via .gitignore
-- ✅ Stored locally only
-- ✅ Not pushed to GitHub
-- ✅ Processed data will be anonymized
+- ✅ Private repository (ServiceSync-AI organization only)
+- ✅ Team members have controlled access
+- ✅ Processed outputs will be anonymized for public brief
+- ✅ No PII in final microsite
 
 ---
 

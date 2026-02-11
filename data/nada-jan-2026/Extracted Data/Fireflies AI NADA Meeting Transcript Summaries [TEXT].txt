@@ -1,0 +1,548 @@
+Thoughts:
+	•	don’t have time for daily huddles… make huddle app
+	•	create onboarding platform via VR and screen workflow automation/guidance
+Meeting Parts 1-5 Summaries
+Meeting 1 (starts after hot topics)
+	•	Service Growth: Service absorption increased by 6% to 42.89%, adding $672,000 in profit through expanded capacity and team management efforts.
+	•	Parts Sales Challenges: Dealer 23 gained $1.4 million in parts sales, but expenses rose by $1.4 million, reducing profit by $473,000.
+	•	Team Restructuring Success: Rebuilding teams quickly can drive performance, as seen in significant profit improvements within months from new strategies.
+	•	Expense Oversight: Rising expenses highlight the need for stricter controls, particularly on advertising and personnel, to maintain profitability.
+	•	Technology Integration: Digital tools improved inspection consistency and customer engagement, streamlining service scheduling and upsell opportunities.
+	•	Long-term Strategy: Initial investments in capacity and team rebuilding may impact short-term profits but are essential for future growth.
+Meeting 2
+	•	Expense Disparities: Personnel expenses ranged from 37% to over 70%, highlighting the need for further analysis of anomalies.
+	•	Union Costs Impact: Union-related labor and benefits significantly affect personnel costs; strategic salary management is crucial.
+	•	Policy Control: Policy expenses vary widely; strong oversight and review processes can help minimize losses and prevent inflation.
+	•	Rental Fleet Efficiency: Effective rental fleet management, including monitoring and internal use, is vital for cost recovery.
+	•	Parts Ordering: Accurate parts ordering boosts scheduling efficiency and reduces rental costs, necessitating ongoing oversight.
+	•	Profitability Awareness: Average net profit of 2.12% emphasizes the need for cost control to improve margins and reduce required sales.
+Meeting 3
+	•	Tool Guard System Success: Implemented a Tool Guard system with 5 users, cutting lost time significantly and yielding returns of up to $90,000 by year three.
+	•	Used Car Team Efficiency: A dedicated team of three technicians improved turnaround and gross profit by optimizing shop workflow without technician pushback.
+	•	Labor Rate Restructuring: Increased labor rates from $160 to a minimum of $225, recovering lost revenue and boosting gross profit effectively across departments.
+	•	Daily Production Expectations: Daily meetings set production goals, resulting in a 19.8% increase in technician utilization and 27% in quick lube gross profit.
+	•	Service Advisor Onboarding Improvements: A new structured onboarding process will enhance advisor training, covering dealership values and practical skills for better performance.
+	•	Digital Engagement Innovations: AI systems and QR code menus improved customer interaction, reduced advertising costs, and facilitated seamless service scheduling and communication.
+Meeting 4
+	•	Technician Productivity Boost: December saw a peak proficiency of 159% through strict stall discipline and early arrivals.
+	•	Proficiency Range: Technicians' proficiency varied from 76% to 125%, signaling growth potential for lower-scoring teams.
+	•	Job Estimates Training: Training improved job hours by 30-50%, effectively increasing revenue through better billing practices.
+	•	Parts Management Efficiency: Dedicated specialists and preloading parts minimized technician downtime and maximized billable hours.
+	•	Daily Accountability: Huddles and scoreboards fostered competition and motivation, driving technician output and accountability.
+	•	Inventory Tracking: Regular checks on lost sales and special orders optimized inventory management and reduced revenue loss.
+Meeting 5
+	•	Trust and Efficiency: Strong trust between service and used car teams reduces reconditioning time, targeting a three-day turnaround.
+	•	Reconditioning Metrics: Reconditioning times vary from three to 16 days, significantly affecting holding costs and selling opportunities.
+	•	Google Profile Use: Optimizing Google Business Profiles improves visibility; ideal ratings are between 4.4 and 4.8 for better local search rankings.
+	•	Appointment Scheduling: Simplifying mobile service appointment scheduling is critical, as users abandon attempts after two minutes.
+	•	Analytics for Strategy: Monthly average of 789 direction requests shows peak demand on Mondays; aligning staffing is essential for customer service.
+	•	Team Collaboration: Proposed future meetings focus on accountability; fostering trust will enhance operational success and communication.
+Meeting Part 1 Notes (Starts after Hot Topics)
+Service Department Performance and Capacity Expansion
+	•	Service absorption improvements and capacity expansions are driving profit growth despite expense increases, led by strategic space utilization and team management.
+	•	Alex increased service absorption by 6 percentage points to 42.89% and improved service department profit by $672,000 year over year through expanding from one shop to three buildings with 41 lifts total, enabling greater technician capacity and service sales (01:05)
+	•	He separated used car reconditioning and PDI technicians into new buildings, increasing efficiency and focus on customer service in the main shop
+	•	Alex appointed a 32-year veteran GM master tech as internal shop foreman to control labor quality and dispatch work, improving quality assurance
+	•	Radios connecting parts counter, foreman, and shops enable faster parts delivery within a 100-yard radius, reducing wasted steps and delays
+	•	These changes reduced technician downtime, increased upsells, and expanded capacity without backlogs, supported by marketing and BDC efforts
+	•	Quick lane operations under Alex run at 1.6 hours per RO compared to 3.2 in the main shop, with a unique pay and billing structure that inflates flat rate time to reduce unapplied labor costs (11:56)
+	•	Quick lane manager is paid $23/hour flat rate but billed at $28/hour to offset costs and preserve profit margins
+	•	Upsells are prioritized by quick lane technicians, passing to main shop techs only when time is limited, keeping labor costs optimized by skill level
+	•	This unorthodox setup leverages technician skill tiers (C Tech, B Tech, A Tech) to maximize labor cost efficiency and sales yield
+	•	Dealer 27 improved service gross by $841,000 while cutting expenses by $56,000, resulting in $886,000 profit increase, driven by strict advisor accountability on inspections and follow-up via dealer logics and Texas Drive tools (26:30)
+	•	Advisors track and email inspection menus consistently, monitored through system analytics for compliance
+	•	Parts gross at dealer 27 rose $457,000 but expenses increased $703,000 due to incentives and advertising, impacting profit by reducing it $246,000
+	•	Expense management and parts strategies need refinement to align expense growth with gross increases
+	•	Josh’s dealership increased retail ROs by 1,328, gross by $574,000, and profit by $276,000 year over year through hands-on leadership, team culture, and pricing adjustments (43:00)
+	•	Stability in staffing and pricing adjustments, including modest oil change price increases, contributed to better absorption and gross
+	•	Shop foreman manages stall allocation strictly based on technician productivity, balancing resource use and pushing underperformers to improve or reduce stalls
+	•	Josh emphasizes relationships and respect to enforce accountability while supporting positive feedback culture, ensuring team buy-in
+Parts Department Performance and Expense Management
+	•	Parts departments show mixed results with some stores increasing gross significantly but facing challenges with rising expenses impacting net profit.
+	•	Alex improved parts sales by $933,000 and gross profit by $334,000 while managing expenses at $185,000, resulting in $148,000 additional profit year over year (05:53)
+	•	Focused parts logistics with dedicated staff and radio communication helped manage inventory and parts flow efficiently
+	•	Investments in parts infrastructure and staffing supported increased sales without proportional expense growth
+	•	Emphasis on wholesale and retail balance and parts expense control to sustain profit margins
+	•	Dealer 23 increased parts sales by $1.4 million and gross by $973,000 but expenses rose by $1.4 million, causing a profit drop of $473,000, driven by a new 40,000 sq. ft. parts and fleet building with $6.4 million inventory (33:26)
+	•	Heavy upfront expensing of building and shelving inflated expenses in the short term
+	•	The facility supports expanded inventory and fleet operations to enable future sales growth
+	•	This investment aligns with a long-term strategy to support parts capacity and gross increases despite short-term profit impact
+	•	Dealer 27’s parts gross grew $457,000 but expenses outpaced gross by $246,000 due to incentives and advertising, indicating a need for tighter expense controls despite strong gross performance (31:29)
+	•	Power drain incentives and gift cards contributed to elevated expenses
+	•	Opportunities exist to optimize promotional spending and inventory management to improve net profitability
+	•	Dealer 40 operates a large wholesale parts business with 90% of sales in wholesale parts, which masked flat parts gross and profit declines due to national backorders impacting powertrain parts valued at $23 million(39:56)
+	•	GM’s national control backorder on powertrain parts severely affected parts sales and rebates in the first half of the year
+	•	Quarterly rebate programs helped recover gross later in the year, mitigating some losses
+	•	Wholesale scale provides some insulation but dependency on backordered parts creates volatility in revenue and profit
+Team Building, Training, and Culture Impact
+	•	Team stability, training, and culture are critical to improving absorption and profitability, with different approaches to turnover and rebuilding teams discussed.
+	•	Michael and Brandy cleaned house and rebuilt their service team with mostly new advisors under four months tenure, resulting in a December net of $82,000, surpassing the rest of the year combined (37:30)
+	•	Initial pain from turnover was offset by installing rigorous processes and training from the start
+	•	Leadership emphasized accountability and bold changes to reverse poor performance quickly
+	•	This rebuild strategy shows that disruptive change, although costly, can lead to rapid service department turnaround
+	•	Brad’s dealership moved from an advisor-led team system to a dispatch system with a dedicated dispatcher, improving throughput, reducing comebacks, and increasing profit by $184,000 year over year (57:00)
+	•	Dispatch system allows better flow of work to technicians, maximizing capacity and reducing bottlenecks
+	•	Used car team addition with three dedicated technicians improved shop capacity and quality control
+	•	Engagement, daily focus, and regular advisor communication are key to sustaining performance gains
+	•	Josh’s leadership focuses on stall management based on productivity and cultivating strong relationships to ensure accountability, balancing positive and negative feedback (49:00)
+	•	Stall allocation depends on technician output with underperformers losing stalls to encourage productivity
+	•	Presence on the shop floor and personal engagement are critical to culture and performance
+	•	This approach improves efficiency and motivates technicians to maximize hours worked per stall
+	•	Eric and Bill reinforced basics like thorough inspections, appointment of the right tech to the right job, and CSI focus, helping to grow gross by $120,000 despite fewer ROs and hours (01:04:30)
+	•	Optimizing technician assignments raised gross even with lower volume, demonstrating efficiency gains
+	•	Advisor stability and team cohesion improved after some turnover, supporting sustained progress
+	•	Continued improvements planned for dispatching and upsell techniques in 2026
+Technology and Process Improvements
+	•	Adoption of digital tools and process refinements are helping improve inspection consistency, appointment accuracy, and customer engagement.
+	•	Alex implemented QR-coded old chain stickers and PDI stickers linked to a landing page with up-to-date service menus and videos, enabling customers to schedule appointments and view service details online(24:30)
+	•	This system reduces paper menu reprints and keeps pricing current automatically
+	•	Advisors use service books with matching QR codes to educate customers and support upsells
+	•	The digital engagement tools increase customer understanding and appointment scheduling efficiency
+	•	Dealer 27 uses Dealer Logics and Texas Drive integrated with CDK DMS to automate inspection photo capture and menu presentation, improving advisor follow-up and upsell tracking (28:30)
+	•	System requires five photos per RO before creation, ensuring thorough vehicle condition documentation
+	•	Advisors share workload in capturing photos and verifying RO accuracy, enhancing team collaboration
+	•	Text-based communication and menu delivery increase customer engagement and payment convenience
+	•	Brad’s dealership emphasized daily monitoring of technician hours, passing out power sheets, and transparency with advisors on sales goals and pricing to sustain engagement and performance (59:00)
+	•	Regular menu updates and manufacturer labor rate increases ensure competitive pricing and profitability
+	•	Engagement in operational details fosters accountability and continuous improvement culture
+Expense Management and Financial Oversight
+	•	Controlling expenses relative to gross is essential, with some stores facing challenges from new investments or team rebuilds impacting short-term profit.
+	•	Stores undergoing team rebuilds or consulting support see elevated expenses initially but expect profitability gains as teams stabilize, as noted by Brad and Michael (01:00:00)
+	•	Consulting costs and higher payroll during rebuild phases reduce margins temporarily
+	•	Once team cohesion improves, consulting expenses are phased out, improving net profit
+	•	Leadership views this as a necessary investment for long-term growth and absorption improvements
+	•	Dealer 14 incurred a $100,000 retirement charge impacting parts expenses, offsetting gross gains and reducing profit despite stable operations (01:13:30)
+	•	This one-time cost highlights the importance of anticipating large expense events in budget planning
+	•	Dealer 23’s large parts building investment heavily expensed upfront led to a $473,000 profit reduction despite strong gross sales growth, reflecting a strategic long-term capital allocation (33:30)
+	•	Heavy front-loading of expenses is expected to improve parts capacity and future revenue
+	•	Stores must monitor return on investment timelines and adjust operational expenses accordingly
+	•	Dealer 27’s increased advertising and incentive expenses, while boosting parts gross, necessitate tighter controls to prevent profit erosion (31:30)
+	•	Power drain incentives and gift card promotions must be balanced against margin goals
+	•	Expense tracking via Dealer Logics and Texas Drive supports ongoing oversight
+	•	Monitoring of personnel expenses is ongoing with targets around 35% absorption to align costs with revenue growth, as emphasized by leadership reviewing page 31 data (01:16:00)
+	•	Personnel expense management is critical to maintaining absorption and profitability during growth phases
+	•	Dealers are encouraged to benchmark and adjust staffing levels to stay within absorption guidelines
+Action items
+Alex
+	•	Continue expanding technician partnerships with local high schools to source new hires (10:00)
+	•	Maintain and refine parts logistics across multiple buildings using radios and centralized parts location (08:00)
+	•	Keep optimizing quick lane efficiency using inflated flat rate billing to improve unapplied labor recovery (12:00)
+	•	Follow up on ideas for digital training videos and QR code usage for customer education (24:00)
+Casey
+	•	Recruit and reintegrate recently lost technician to improve output and reduce work backlog (01:12:00)
+	•	Monitor and adjust staffing to meet service volume demands (01:11:00)
+Lake
+	•	Enforce advisor accountability on inspections and upsells using Dealerlogics and text to drive (28:00)
+	•	Monitor parts department expenses related to marketing and incentives closely (30:00)
+Brandy and Mike
+	•	Continue embedding new advisors with structured training to cement turnaround gains (38:00)
+	•	Drive culture change initiatives to improve adoption of video-based upselling tools for advisors and technicians (01:16:00)
+Josh
+	•	Continue active stall management to maximize technician productivity and shop efficiency (49:00)
+	•	Maintain strong communication and relationships to ensure feedback with technicians is balanced and effective (50:00)
+Brad
+	•	Maintain daily engagement practices with advisors and technicians, including pricing checks and transparent communication on sales goals (59:00)
+	•	Continue rebuilding and stabilizing service team to sustain growth (01:00:00)
+Eric/Bill/Brows
+	•	Focus on foundational basics including inspections, proper work-first processes, and customer satisfaction improvements (01:11:00)
+Mike/Colleen
+	•	Intensify training and coaching efforts to shift technician and advisor culture on maintenance upsell acceptance (01:16:00)
+Dan/Joe
+	•	Leverage warranty and stable parts expenses to sustain profit gains (01:20:00)
+Tyler
+	•	Manage retirement-related large expense impacts proactively to reduce profit erosion (01:23:00)
+Group
+	•	Monitor service and parts absorption metrics regularly and adjust operational focus accordingly (01:16:00)
+	•	Prepare for post-break session focusing on personnel expense control and growth management (01:25:00)
+Meeting Part 2
+Expense Management and Personnel Costs
+	•	The group focused on analyzing semi-fixed expenses and personnel costs to identify areas impacting overall profitability (00:00).
+	•	Key insight showed wide disparities in personnel expense percentages, with some stores posting as low as 37%while others exceeded 70% in total personnel expense (02:54)
+	•	The composite data revealed no clear answers but flagged notable outliers for further review.
+	•	The discussion highlighted the importance of questioning anomalies rather than assuming errors, with examples like a dealer intentionally maintaining higher benefits.
+	•	The need to balance supervision salaries against overall wage levels was emphasized, as seen with Alex paying a higher supervisor salary but still staying under guide.
+	•	This variance underscores the need to understand local conditions, such as cost of living or union presence, when benchmarking expenses.
+	•	Union labor and benefit costs were significant drivers of higher expenses in some regions, influencing total personnel costs (07:05)
+	•	Participants noted that union contracts limit flexibility on supervision incentives and benefits, pushing percentages higher.
+	•	This constraint requires strategic salary management and possibly alternative incentive structures to optimize cost without impacting morale.
+Warranty, Policy, and Damage Cost Controls
+	•	Controlling warranty claims, policy expenses, and lot damage costs emerged as critical levers for profitability (12:48).
+	•	Several stores demonstrated a tight control on policy expenses, with some under 1% and others over 3.8%, pointing to different management philosophies on handling errors and goodwill (27:50)
+	•	Joe shared a strict approach where advisors cover damages if technicians err after a freebie, reducing policy costs significantly.
+	•	Conversely, looser cultures risk policy accounts becoming dumping grounds, inflating expenses unnecessarily.
+	•	The team agreed strong oversight and regular review of warranty rejections and write-offs are essential to minimize losses.
+	•	Lot damage costs were linked to physical constraints like parking space size, with one store reducing lot damage expenses by clearing the lot and building a parking deck (31:03)
+	•	Limited parking and tight spots increase vehicle damage risk, directly hitting policy and repair costs.
+	•	Investing in infrastructure improvements like larger parking areas can reduce these recurring expenses and improve profitability.
+Rental Fleet Management and Cost Recovery
+	•	Effective management of rental fleets and related expenses was identified as a major cost-saving opportunity (21:13).
+	•	One store expanded their rental fleet to 60 vehicles, requiring managers to collect at least half of rental income monthly to avoid expense penalties (22:37)
+	•	Daily monitoring of rental days and mileage limits prevents costly overages and keeps the fleet financially sustainable.
+	•	Use of software like OnTrack and mobile walk-around inspections helps reduce damage liability and toll violations.
+	•	Loading customer credit cards for tolls streamlines cost recovery and reduces administrative burden.
+	•	Challenges in recovering GM rental taxes and excess rental days were noted, with GM refusing to pay taxes or parts delay charges on rentals (20:21)
+	•	This creates write-offs that dealers must absorb, urging internal fleet use over outside rentals.
+	•	Dealers are encouraged to negotiate for larger internal fleets and demonstrate cost-saving potential to management, as Kevin suggested.
+Parts Ordering and Appointment Scheduling Process
+	•	Improving parts ordering accuracy and customer appointment scheduling was highlighted to reduce rental costs and operational inefficiencies (26:26).
+	•	Most stores reported high accuracy in knowing expected arrival times for special order parts, enabling better appointment setting (26:26)
+	•	Scheduling customer return appointments based on predicted part delivery helps lock in business and reduces no-shows or rescheduling.
+	•	However, delays and process changes can cause appointment conflicts, so ongoing tracking and adjustment are necessary.
+	•	Managers must ensure daily oversight of parts arrival and rental time limits to avoid excess rental fees.
+Advertising Spend and Sales Impact
+	•	Advertising expenses varied widely, with some stores spending over 9% of their budget on advertising, raising questions about measurement and allocation (31:03).
+	•	Advertising efforts included mailers and campaigns split across departments, with some stores combining advertising and ecommerce costs over 7% (31:03)
+	•	The group discussed the need for clearer tracking of advertising ROI to ensure spend aligns with sales growth.
+	•	Sharing best practices on how to measure and allocate advertising costs could help improve efficiency and profitability.
+Profitability Metrics and Cultural Impact
+	•	The meeting underscored the importance of understanding net profit percentages and their impact on operational decisions and culture (36:17).
+	•	The group average net sales profit was around 2.12%, meaning every $1 of expense requires roughly $34 in sales to break even (36:17)
+	•	Small losses, like a $150 mistake, require generating over $7,000 in sales to offset, emphasizing tight cost control.
+	•	Payroll was identified as the largest and most critical expense to manage, with leadership stressing the balance between people as assets and costs.
+	•	This metric fosters a cultural shift where managers and employees understand the real cost impact of giveaways, errors, and inefficiencies.
+	•	Joe highlighted how even small giveaways like a remote key or minor bumper damage translate into many service jobs needed just to break even, encouraging accountability.
+	•	The team agreed that improving net profit margins from 1% to 6% dramatically lowers the sales needed to cover costs, reinforcing the value of focused expense and operational management (41:07)
+	•	This framework helps managers make smarter decisions about write-offs and customer goodwill based on measurable impact.
+	•	The session concluded with plans to share the profitability template via email to assist all stores in applying these insights.
+Action items
+Alex
+	•	Review supervision salaries and investigate discrepancies in expense allocations, especially high supervision salaries versus guide (00:06)
+All Dealers
+	•	Circle and question any deviations from guides in semi-fixed and personnel expense columns, particularly if expenses are significantly above or below benchmarks (00:04)
+Service Managers
+	•	Continue defensive driving training for porters and crews to reduce vehicle damage claims and associated policy expenses (13:30)
+Parts and Service Departments
+	•	Improve coordination and real-time communication about special order parts arrival to advisors and scheduling customer appointments to reduce reschedules and manage rental timelines effectively (26:00)
+Rental Fleet Managers
+	•	Maintain strict oversight of loaner vehicle usage, mileage, and rental duration to avoid excessive expenses and enforce collection protocols (22:37)
+All Dealership Managers
+	•	Tighten control over policy account usage to avoid creating a 'dumping ground' for costs; ensure advisors justify policy expenses and seek approval for exceptions (27:50)
+Laura
+	•	Utilize the net to sales profit template to track dealership’s profitability and communicate financial impact of expenses with management teams (36:00)
+Meeting Organizer
+	•	Email net to sales financial impact template to all participants post-meeting for further analysis and budgeting (41:00)
+All Participants
+	•	Prepare notes and ideas for upcoming session on expense reduction and gross profit improvements to be held after lunch on 10th floor (43:00)
+Meeting Part 3
+Tool Management and Shop Efficiency
+	•	The company significantly improved shop efficiency and reduced lost time by implementing a Tool Guard system with 5 licensed users, costing $26,006 in the first year and yielding a return of $10,000, which increased to $36,000 in year two and $90,000 by year three through better tool tracking and availability (02:10).
+	•	The system tracks tool checkouts and returns, sending notifications to designated custodians, limiting users to key technicians to maintain control and accountability.
+	•	The shop reorganized and caged tools, discarding obsolete equipment, which improved technician satisfaction and reduced lost work time spent hunting tools.
+	•	Initial resistance to the $25,000-$30,000 investment was overcome after demonstrating tangible time savings and improved workflow.
+	•	The process included physical inventory cleanup, shelving installation, and ongoing updates to software with new tools, improving operational discipline.
+	•	This approach reduced repeat repairs caused by improper tool use and supported technician productivity, positively impacting labor effectiveness.
+	•	The creation of a used car service team of three technicians with varied skill levels improved turnaround times and gross profit by freeing up the main shop for customer-paid work without causing pushback from other technicians (09:00).
+	•	The team consists of a strong B tech, an express-trained technician, and a strong C tech, working on flat rate hours with tickets assigned by dispatch.
+	•	The used car manager coordinates closely with the team foreman, streamlining communication and work distribution.
+	•	This initiative enhanced used car department gross profit and inventory turn by reducing days in recon and improving service throughput.
+	•	The approach balanced technician workload and maintained morale by increasing overall shop capacity.
+Labor Rate Optimization and Technician Accountability
+	•	A comprehensive review of labor operations revealed that a labor rate was artificially reduced from $210 to $160due to advisor discounts and warranty handling, leading to revenue leakage (14:20).
+	•	By restructuring labor categories and enforcing a minimum door rate of $225, the company increased gross profit dollars and warranty labor rates to $231 per hour.
+	•	Advisors had been lowering labor rates to avoid conflicts over parts or customer pushback on extended warranties, impacting profitability.
+	•	Increased labor rate discipline was supported by running effective labor rate reports to catch unauthorized discounts and enforce compliance.
+	•	A cultural shift was introduced to hold advisors accountable for maintaining the door rate and pushing proper pricing.
+	•	Daily morning meetings were instituted to set clear technician production expectations, aiming for 20% more production than industry standards based on clocked hours, with individual accountability for hours turned (17:19).
+	•	Technicians publicly declared their daily hour goals, and managers challenged discrepancies to uncover obstacles to productivity.
+	•	This direct approach exposed internal issues between service lane and parts department that hindered technician efficiency.
+	•	The culture encouraged confronting excuses and promoted ownership, including technical monitoring via GoPros to ensure work activity.
+	•	The result was a 19.8% increase in full technician utilization and a 27% increase in quick lube gross profit through modified pay structures guaranteeing minimum hourly wages with upside.
+Service Advisor Training and Onboarding
+	•	The group recognized the absence of a consistent, documented onboarding process for new service advisors, especially those without prior experience, leading to variable performance and lost opportunities (01:00).
+	•	Current onboarding is often informal, relying on shadowing and on-the-job training with no standardized checklist or roadmap.
+	•	A proposed onboarding checklist, although comprehensive and lengthy, needs to be modularized and simplified for better assimilation.
+	•	Key recommendations include breaking training into manageable chunks, assigning mentors, covering dealership culture, mission, and core values early, and having sign-offs for training milestones.
+	•	Role playing, hands-on system training (DealerTrack, Xtime), and communication skills development are critical for advisor readiness.
+	•	Ongoing training and career path development were highlighted as essential for advisor success and retention.
+	•	The absence of a "Road to the Service Sale" process was noted, with no dealership having a rock-solid, written procedure for advisors to follow, impacting sales consistency (01:37).
+	•	The group reviewed an outdated standard process and identified it as a starting point for creating an updated, relevant sales approach.
+	•	Facilitating cross-functional teams to develop tailored processes was recommended to increase buy-in and sustainability.
+	•	Emphasis was placed on advisors understanding their role in upselling, value communication, and customer relationship building.
+	•	The importance of consistent training, accountability, and measuring advisor performance daily rather than monthly was underlined.
+Digital Tools and Customer Engagement
+	•	Implementation of an AI-driven outbound call system and digital campaign management has reduced the need for human BDC staff, cutting advertising costs from around 1.5-1.6% of budget while increasing business efficiency (10:30).
+	•	AI handles inbound and outbound calls, manages campaigns for recalls, special orders, and retention, and enables customers to schedule appointments via interactive bots.
+	•	Personalized bots use customer data (name, VIN, purchase date) to tailor conversations, increasing engagement and scheduling through multiple channels (link, call, direct scheduling).
+	•	The same AI system is deployed consistently across five stores under a single persona ("Pam") to unify customer experience.
+	•	Campaign success is monitored by tracking answered calls and analyzing missed calls for process improvements.
+	•	A QR code-based digital menu and video library, sponsored by a chemical company, facilitates online appointment scheduling, service explanation, and financing options, improving customer retention and reducing paper costs (39:00).
+	•	Customers scan QR codes on stickers placed strategically on vehicles to access service menus, owner's manuals, roadside assistance, and financing applications.
+	•	Advisors use videos to explain services, increasing customer understanding and buy-in, boosting quick service sales.
+	•	The system integrates with the factory online service scheduler, providing a seamless customer experience without phone calls or paper menus.
+	•	This innovation supports digital engagement, reduces printing expenses, and unifies pricing communication across advisors.
+Service Performance Metrics and Profitability
+	•	Analysis of group composites showed a 9% increase in customer pay RO counts from December 2022 to 2023, indicating growth despite industry challenges (01:55).
+	•	Warranty and internal RO counts also increased, but customer pay remains the key driver of profitability and retention.
+	•	Labor sales have remained steady, but increases in labor rates explain revenue growth rather than higher volume.
+	•	Advisors must be trained and held accountable to avoid becoming order takers and instead build value propositions to overcome customer objections.
+	•	Warranty receivables management varies, with some stores closing ROs only after payment to avoid write-offs and ensure accurate collections, resulting in better cash flow control (12:50).
+	•	Warranty administrators closely monitor claims, adjust tickets before final closure, and maintain signatures to reduce liability.
+	•	Sublet parts policies differ widely; some stores mark up sublet work by 20-55%, while others avoid markups on body shop or windshield repairs.
+	•	Managing parts receivables is critical, with emphasis on maintaining under 30 days supply to avoid cash flow issues.
+	•	Labor productivity targets include 20,000 sales and 15,000 gross per technician per month, with current performance varying widely across stores.
+	•	Hours per RO and hours per technician tracked show a wide range from 1.3 to 4.7 hours per hour worked, influenced by shop specialization, technician skill, and work mix (03:05).
+	•	Stores with higher hours per RO often have medium-duty or heavy line work shops or strong video MPI adoption.
+	•	Express and quick lanes show lower hours per RO, highlighting the need to balance volume with profitable upselling.
+	•	Video MPIs are increasingly critical in winning upsells, with technicians showing significantly improved sales after positive experiences.
+	•	Walkarounds, MPI reviews, and consistent advisor training are key levers to increase hours sold per RO and overall profitability.
+Sales Techniques and Advisor Accountability
+	•	Effective use of feature-advantage-benefit (FAB) selling, combined with structured MPI presentations and customer walkarounds, drives higher sales and trust (03:23).
+	•	Advisors are coached to break down recommendations into required, immediate, and maintenance categories, using color-coded urgency to simplify customer decisions.
+	•	Follow-up texts after electronic estimates ensure customer understanding and increase approvals.
+	•	Role playing and daily training sessions, including cold call objection handling, build advisor confidence and skills.
+	•	Accountability frameworks include daily measurement of customer contacts, MPI presentations, and close ratios to drive consistent advisor behavior.
+	•	The importance of advisor engagement in the sales-service handoff and developing rapport with customers was repeatedly stressed as foundational for retention and upsell success (01:48).
+	•	Salespeople must introduce customers to the service department and plant seeds about future maintenance value.
+	•	Advisors need to build relationships by understanding customer needs, reviewing service history, and discussing declined repairs.
+	•	Management responsibility includes providing vision, processes, training, and accountability to ensure advisors perform consultative roles rather than order taking.
+	•	Continuous improvement through monitoring, coaching, and process updates is critical to improve customer pay retention and revenue growth.
+Action items
+Service Managers & Advisors
+	•	Implement daily tracking and discipline for service menu upselling and objection handling (00:00)
+	•	Establish morning technician productivity meetings and accountability follow-ups (17:00)
+	•	Address and reduce undecided repair approvals promptly in Xtime reports (21:00)
+	•	Redesign quick lube flat rate pay plans to incentivize productivity (23:00)
+	•	Develop and document a formal onboarding process and training roadmap for new advisors; incorporate mentor programs (01:00:00)
+	•	Create or update 'Road to Service Sale' written process; adapt for team input and evolving practices (01:37:00)
+	•	Train sales staff to perform effective service handoffs during the vehicle sale process to drive service retention (48:00)
+	•	Systematically monitor and audit service appointment data daily, focusing on advisor upselling and declined maintenance follow-up (03:29:00)
+	•	Implement FAB technique and use MPI video inspections to improve service advisor presentations and close rates (03:25:00)
+Parts Managers / Administrators
+	•	Manage warranty receivables actively, ensure ROs close after payment to avoid cash leaks (02:12:00)
+	•	Monitor and reduce parts receivable aging; enforce credit terms and evaluate fees for credit card transactions (02:18:00)
+	•	Take ownership of sublet billing accuracy and apply appropriate markups consistently (02:43:00)
+Dealership Leadership (Dealers, GMs, Service Directors)
+	•	Support implementation of formal, modular advisory onboarding and ongoing training programs (01:15:00)
+	•	Facilitate cross-department collaboration to adjust pricing to competitive benchmarks such as KBB and RepairPal data (51:00)
+	•	Lead accountability for service advisors via daily coaching, role playing, and training reinforcement (03:29:00)
+	•	Promote culture emphasizing service retention to combat service 'tsunami' effect (01:46:00)
+	•	Encourage technology adoption such as digital menus, AI call systems, and mobile self-scheduling to enhance operational efficiency and customer experience (11:00)
+Training Coordinators
+	•	Organize and conduct regular role playing, video MPI usage training, and structured ongoing training sessions for service advisors (03:29:00)
+	•	Facilitate service advisor performance reviews with focus on measured actions like MPIs sold, upsells, and customer contacts (03:29:00)
+Meeting Part 4
+Technician Productivity and Proficiency
+	•	Technician productivity improves significantly when daily accountability, training, and culture focus on maximizing billable hours and minimizing downtime.
+	•	Achieving a peak of 159% proficiency in December by enforcing strict stall discipline and encouraging early start times shows that constant monitoring drives results (14:00)
+	•	Frequent walk-throughs every 30 minutes and immediate correction of non-working behavior were key
+	•	The push to keep technicians in their stalls boosted efficiency and reduced wasted time
+	•	Encouraging technicians to arrive early allowed some prep work before meetings, increasing readiness
+	•	This approach created a culture of accountability that directly increased technician output
+	•	Technician proficiency averages ranged from 76% to 125% across stores, with 125% considered very strong and achievable (18:00)
+	•	Those above 100% were recognized as high performers, showing clear room for growth in lower-scoring teams
+	•	Proficiency calculations accounted for adjusted available hours after PTO and training, ensuring fair benchmarks
+	•	Some stores faced challenges hitting 100% due to varying technician habits and resource allocation
+	•	Proficiency improvements correlated with disciplined work habits and better parts flow
+	•	Training technicians to maximize estimates by adding small labor time increments increased job hours by 30-50%, directly impacting revenue (22:58)
+	•	Technicians often missed billing for minor tasks like half hours or tenths, leaving money on the table
+	•	Coaching helped turn 2-hour jobs into 3.2-hour jobs and 4-hour jobs into 6-hour jobs
+	•	This training was identified as a straightforward, low-cost way to boost gross labor hours
+	•	Sales skills remain critical because estimates must be sold to customers to realize full value
+	•	Flexible technician scheduling with core 8-hour shifts plus early or late arrivals improved service coverage and accommodated personal needs while maintaining productivity (28:00)
+	•	Allowing early start/early leave or late start/late leave helped manage workload without losing hours
+	•	One technician arriving at 4 a.m. worked 8 hours and left early, showing flexibility can retain talent
+	•	This scheduling enabled later appointments and better shop coverage without overtime
+	•	Managers emphasized trust and accountability as essential for this flexibility to succeed
+	•	Daily huddles, scoreboards, and visible daily production metrics fostered competition and motivation among technicians (30:26)
+	•	A daily updated scoreboard in the lounge tracked hours turned and flagged those below 8 hours in red
+	•	This “silent salesperson” created peer pressure to improve output
+	•	Regular morning meetings reinforced accountability and cleared obstacles to technician productivity
+	•	Leaders like Brandy directly challenged excuses and reduced downtime causes like broken tools or parts delays
+Parts Department Operations and Impact on Productivity
+	•	Efficient parts management, including rapid special order handling and strong service-part collaboration, is essential to sustaining technician proficiency and minimizing lost sales.
+	•	Deploying a dedicated service parts acquisition specialist to source hard-to-find parts improved parts availability and technician uptime (41:10)
+	•	This role proactively contacts other dealers to secure backordered parts, sometimes paying premiums or offering incentives
+	•	Service managers intervene when parts managers hesitate due to cost concerns, ensuring technician needs come first
+	•	This process minimizes technician downtime waiting on parts and helps maintain schedule flow
+	•	Parts and service teams aligned on goals to treat parts as a shared operational asset rather than siloed functions
+	•	Preloading parts onto vehicles and pre-pulling parts the day before jobs start reduces technician wait times and increases billable hours (27:28)
+	•	Parts staff arrange bins with technician names to organize and track parts efficiently
+	•	Strong collaboration between parts managers and service managers ensured parts arrive promptly at stalls
+	•	Some stores still struggle with adoption of pre-pulling, often due to lack of technology use or cultural resistance
+	•	The mindset alignment between parts and service managers was highlighted as crucial for success
+	•	Tracking and managing special order parts with weekly reviews and customer appointment scheduling prevents parts from sitting idle and losing value (47:08)
+	•	Parts managers check the special order parts area at least twice weekly and follow up on aging parts
+	•	Advisors and BDC teams coordinate appointments promptly once parts arrive to minimize shelf time
+	•	AI-driven communication tools for notifying customers about parts availability were recommended to streamline this process
+	•	Failure to track special order parts leads to dead inventory and lost revenue opportunities
+	•	Recording lost sales and emergency purchases consistently is critical to understanding parts demand and improving inventory management (50:50)
+	•	Lost sales data reveals gaps where parts shortages cause work delays or lost jobs
+	•	Many stores do not consistently track lost sales, missing key demand signals
+	•	Emergency purchases indicate inventory gaps and raise costs by forcing last-minute buying
+	•	Holding employees accountable for tracking lost sales was emphasized as a cultural and operational necessity
+	•	Effective inventory management balancing parts turnover and obsolescence ensures money isn’t tied up unnecessarily while meeting demand (24:59, 33:26)
+	•	Turn rates of 54-60% were common, indicating healthy inventory movement
+	•	Obsolete inventory should ideally stay under 5% to minimize write-offs
+	•	Stores managing wholesale parts differently from regular inventory adapt pricing and stocking strategies accordingly
+	•	Seasonal adjustments to parts ordering help meet fluctuating demand and improve proficiency by reducing stockouts
+Culture and Leadership Driving Operational Excellence
+	•	Positive relationships, clear communication, and leadership presence are vital in building a high-performing service environment.
+	•	Building genuine relationships with technicians increases willingness to stay late or go beyond normal hours when needed (34:19)
+	•	Leaders like Jack maintain constant engagement with technicians, not just during performance issues
+	•	Positive attitude and trust create a culture where technicians respond willingly to requests
+	•	Leaders emphasized presence on the shop floor rather than being office-bound
+	•	Regular communication channels like group texts and monthly meetings give technicians a voice and foster teamwork
+	•	Saturday rotations with experienced tech leaders mentoring younger staff maintain quality and support skill development (37:50)
+	•	Rotation schedules for team leads every eight weeks provide leadership and guidance on weekends
+	•	Apprentices and junior techs get consistent support, improving job quality and confidence
+	•	This system balances workload and builds future leaders within the team
+	•	The approach also serves as a perk and motivation for senior techs
+	•	Eliminating common excuses by addressing equipment issues and parts delays forces technicians to produce consistently (39:00)
+	•	Leaders like Brandy confront technicians daily about hours turned and challenge excuses
+	•	Broken tools or parts shortages are quickly resolved or bypassed to prevent work stoppages
+	•	This zero-tolerance attitude toward excuses builds a culture of accountability
+	•	Technicians adapt by finding workarounds and improving efficiency
+	•	Organizing tools and workspaces, as done by external consultants, contributes to smoother workflows and higher productivity (35:30)
+	•	Tool organization reduces time wasted searching for equipment
+	•	Improved shop layout supports faster job completion and fewer interruptions
+	•	Consultants help instill best practices and continuous improvement mindsets
+	•	These operational changes complement behavioral and cultural improvements
+Data-Driven Monitoring and Performance Metrics
+	•	Tracking key metrics and using data consistently enables targeted improvements and accountability.
+	•	Proficiency is calculated by comparing booked hours to available hours, with 125% efficiency as a benchmark for excellence (09:32)
+	•	Adjustments for PTO and training ensure accurate available hour counts
+	•	Proficiency tracking highlights underperforming technicians and opportunities for coaching
+	•	Some stores reported proficiency over 100%, showing potential for best practices to spread
+	•	Consistent monitoring prevents complacency and supports performance goals
+	•	Parts inventory turnover and dollar turn metrics provide insight into money efficiency and stock management (24:59, 27:15)
+	•	Turnover percentages across dealers ranged mostly from 42% to 65% monthly
+	•	Dollar turn ratios help identify slow-moving or obsolete stock tying up capital
+	•	Comparing month supply and dollar turn offers a fuller picture than single metrics alone
+	•	Monitoring these metrics informs purchasing and discounting strategies
+	•	Lost sales and emergency purchase tracking help quantify the impact of inventory gaps on revenue and technician downtime (50:50)
+	•	Accurate lost sales data informs demand forecasting and supply chain adjustments
+	•	Emergency purchases add cost and delay, reducing technician productivity
+	•	Managers stressed the importance of holding teams accountable for tracking these metrics
+	•	Culture shifts are needed to embed this consistent data tracking
+	•	Warranty labor rate increases and labor cost reviews with external consultants improved labor rate realization from $184.50 to $200 per hour (22:22)
+	•	Engaging consultants like QB Solutions helped negotiate warranty labor rates effectively
+	•	These efforts directly increased revenue per labor hour without increasing technician workload
+	•	Some dealerships manage warranty labor rate reviews internally, depending on resources
+	•	Higher labor rates improve profitability and support investment in training and tools
+Process Improvements and Technology Integration
+	•	Streamlined processes and technology adoption reduce friction and free up time for core tasks.
+	•	Manual daily dispatch sheets and daily huddles improve job ownership and clarify responsibilities (00:00)
+	•	These tools help track special parts and assign job ownership clearly
+	•	Daily communication increases focus on daily goals and problem areas
+	•	Teams benefit from having a clear “bottom line” focus each day
+	•	Such operational discipline supports higher productivity and accountability
+	•	AI-based tools for special order parts communication streamline customer notifications and appointment scheduling (47:08)
+	•	AI automates texting and emailing customers about parts arrival and service scheduling
+	•	This reduces manual workload on BDC and advisors, allowing focus on sales and service
+	•	Some stores already use AI to manage special order parts with reported high adoption
+	•	Implementing such tools accelerates parts turnover and improves customer experience
+	•	Parts and service integration processes, including weekly joint meetings and shared metrics, ensure alignment on inventory and demand (58:40)
+	•	Regular meetings between service managers and parts managers review part demands and inventory
+	•	This coordination helps anticipate busy periods and adjust stocking accordingly
+	•	Shared KPIs like fill rates and lost sales drive joint accountability
+	•	Strong collaboration reduces parts shortages and technician downtime
+	•	Flexible technician schedules supported by clear accountability and trust allow better customer appointment coverage without overtime (28:00)
+	•	Allowing technicians to start early or late with matching leave times adapts to personal needs
+	•	This flexibility improves morale and retention without sacrificing hours worked
+	•	Managers monitor hours turned rather than just time logged to ensure productivity
+	•	Such scheduling also enables later service appointments benefiting customer convenience
+Action items
+Josh
+	•	Josh to revisit QR code implementation and video/picture enhancements in service offerings to increase customer engagement (00:30)
+Unassigned
+	•	Create and implement improved onboarding and continuous training processes for seasoned technicians to refresh fundamentals (01:20)
+	•	Develop daily dispatch manual and conduct daily huddles to boost daily operational efficiency and task ownership (02:50)
+	•	Shop managers to strictly enforce technician stall presence and reduce downtime through regular monitoring and coaching (14:30)
+	•	Parts managers to adopt electronic parts runners and restrict technician access to parts department for efficiency (15:30)
+	•	Service managers to maintain daily updated scoreboard tracking technician productive hours visible in technician lounge for accountability (30:20)
+	•	Evaluate flexible technician schedules, balancing start times and end times while ensuring total hours worked (29:00)
+	•	Schedule monthly technician advisory panels or meetings to foster communication and engagement with technicians (36:30)
+	•	Parts and service managers to synchronize mindset and goals for rapid parts procurement and distribution (40:20)
+	•	Assign parts acquisition specialists on the service team to aggressively source special order parts beyond standard parts department limits (42:50)
+	•	Integrate AI tools for communication and scheduling on special order parts follow-up to improve customer appointment rates and reduce manual work (47:10)
+	•	Parts department to implement weekly reviews of special order parts to ensure appointments are set, parts are moved quickly, and lost sales minimized (50:20)
+	•	Service managers to track lost sales and emergency purchases regularly for diagnostics of inventory and parts issues (51:40)
+	•	Enforce accountability in recording lost sales and prevent excuses among technicians and parts staff (55:20)
+	•	Parts managers to monitor obsolete parts percentage aiming for less than 5% and aggressively discount or clear obsolete inventory (01:23:30)
+	•	Evaluate wholesale and regular parts inventory management practices separately, adopting discounting for obsolete wholesale parts (01:36:30)
+	•	Implement MSRP pricing for parts sales and control discounting mechanisms to maintain profitability (44:20)
+	•	Use parts demand data and seasonality to adjust ordering and inventory levels accordingly (01:00:10)
+	•	Service managers to coach technicians on start time punctuality, break discipline, and daily output accountability (38:10)
+	•	Explore warranty labor rate consultants or internal reviews to maximize warranty labor rate claims effectively (01:22:30)
+	•	Conduct inventory dollar-turnover and month supply analytical reviews to optimize parts inventory management (01:23:15)
+Meeting Part 5
+Used Car Reconditioning and Inventory Turnover
+	•	The meeting underscored the critical role of trust and streamlined processes between the service and used car departments to minimize reconditioning time and reduce holding costs.
+	•	Josh described a trusted reconditioning workflow involving appraisal, diagnostics using a Zeus snap-on scanner, and coordinated repair with used car managers, achieving an average turnaround of about five days for recon (04:35).
+	•	The team communicates closely to approve repairs quickly, with trusted used car techs like Robert handling estimates with little friction.
+	•	This trust allows faster decisions and fewer delays, helping reduce holding time and related costs.
+	•	The goal is a three-day turnaround, reflecting a best practice benchmark for rapid inventory movement.
+	•	Faster recon translates directly into lower holding costs and improved profitability, as cars spend less time idle.
+	•	Discussion revealed a wide range in reconditioning times across dealers, from three days to over 16 days, with some dealers excluding body shop sublets from this metric (08:58).
+	•	Longer recon times drastically increase holding costs and reduce the effective selling window before losses occur.
+	•	Using a financial model dividing holding costs by gross profit showed some dealers have only 15 to 40 days to sell cars profitably after recon.
+	•	Extending inventory beyond this break-even period leads to losses, even on cars with strong gross profit.
+	•	The group agreed on the importance of reducing recon time to the group average of four to five days or better to protect margins (18:40).
+	•	The conversation stressed best practices such as having cars fully reconditioned and online with pictures before delivery to customers to avoid liability and ensure quality (20:28).
+	•	Selling cars before recon increases risk and complicates trust between departments.
+	•	Participants emphasized that cars should not be delivered until reconditioning is complete to safeguard customer safety and dealership reputation.
+	•	Team building and communication across departments remain vital to support these processes.
+Google Business Profile Optimization for Service Departments
+	•	The session highlighted the importance of optimizing Google Business Profiles to boost service department visibility and customer engagement.
+	•	Analysis of dealerships’ Google profiles showed significant variation in total reviews, with one dealer having 3,000 reviews and another around 1,355, and service-specific reviews ranging from 41 to 68 (23:43).
+	•	Dealers with nested department pages (service, parts, car wash) on their Google profiles get better search relevance.
+	•	Directing customers to leave reviews specifically on the service department page helps improve that segment’s visibility without hurting the main profile rating.
+	•	A 4.4 to 4.8 rating range is ideal for Google relevance, impacting local search rankings and customer trust.
+	•	Using QR codes and incentives for advisors to encourage service reviews was recommended.
+	•	Website and Google profile content must be actively managed to remain relevant and effective (34:00).
+	•	Pictures on the service page should focus on the department, not just new car inventory.
+	•	Regular audits of website tabs and content are essential to avoid outdated promotions hurting user experience.
+	•	Engaging with website providers is critical as these digital assets are living documents requiring continuous updates.
+	•	Google Analytics data showed average service site visit durations around 120 seconds, but page load times varied widely, from 5.12 seconds to 168 seconds, impacting user experience negatively in slower cases (39:01).
+	•	Slow load times were linked to outdated UTM tags, which should be removed to improve speed.
+	•	Service special pages attract fewer clicks relative to overall service page visits, indicating potential for better promotion and UX design.
+Service Appointment Scheduling Experience
+	•	The group tested the ease of scheduling service appointments via mobile, revealing critical insights into customer patience and process efficiency.
+	•	Attendees completed scheduling trials with times ranging from 42 seconds to over two minutes, with studies showing customers typically abandon after two minutes (46:57).
+	•	Fast, simple appointment booking on mobile is essential since 60-70% of users access service sites this way.
+	•	Dealers with faster, clearer scheduling processes are likely to retain more customers and boost appointment rates.
+	•	The exercise highlighted the need to audit and streamline online appointment workflows regularly.
+	•	The importance of visibility and ease of access for appointment scheduling on dealership homepages was stressed (45:16).
+	•	Clear “Schedule an Appointment” calls to action should be prominently placed.
+	•	Slow or complex booking steps risk losing customer engagement immediately.
+Digital Analytics and Resource Allocation for Service
+	•	Review of digital analytics emphasized the need for data-driven staffing and marketing decisions to capture service demand efficiently.
+	•	Google Business Profile data showed dealerships receive an average of 789 direction requests per month, mostly for service visits, usually peaking on Mondays (52:34).
+	•	Staffing and resource planning should align with these peak demand days to optimize customer service and reduce wait times.
+	•	Tracking website clicks and map views helps quantify actual customer interest and informs marketing spend.
+	•	Sharing Google Business Profile admin access across dealer groups is critical to unlock these insights and improve collective performance (54:38).
+	•	The host committed to sending out guidance and video resources for sharing profiles.
+	•	Increasing profile sharing and transparency will allow better benchmarking and group-wide improvements.
+	•	Monitoring lifetime Google review ratings alongside monthly review counts enables ongoing reputation management (54:38).
+	•	Keeping ratings in the optimal 4.4-4.8 range supports local SEO and customer trust.
+	•	Dealers not actively managing these profiles risk losing competitive advantage in local search results.
+Strategic Focus on Team Collaboration and Accountability
+	•	The meeting concluded with a call for stronger interdepartmental collaboration and accountability to drive these improvements.
+	•	Building trust between service and used car teams underpins faster recon and better financial outcomes (00:00).
+	•	Bonus structures linking sales and recon costs were discussed as motivational tools to align goals.
+	•	Clear guardrails and open communication channels reduce friction and improve decision-making.
+	•	The host announced plans for future meetings to focus on hot topics with accountability, including input sheets and objective tracking to ensure follow-through (56:17).
+	•	Managers are expected to prepare and report on progress ahead of the next session.
+	•	This approach aims to shift culture toward data-driven performance and cross-team cooperation.
+	•	Informal team building activities were briefly mentioned as potential support for improving communication and workplace dynamics (20:28).
+	•	The group humorously noted challenges but recognized these as important for sustained operational success.
+Action items
+All Dealer Managers
+	•	Review and write down the values from column 4A (gross profit) and 12B (holding costs) from page 18 of their reports; calculate break-even days to enhance recon and sales planning (13:49)
+Service Managers
+	•	Engage in building trust and improving communication with used car managers to speed vehicle reconditioning and reduce costs (00:00)
+Used Car Managers
+	•	Coordinate upfront with service on vehicle appraisal and repair estimates to accelerate recon turnaround times (04:35)
+Dealer Website/Webmaster Teams
+	•	Audit Google Business Profiles and service department pages for review counts, pictures, and correct nesting to improve local SEO and customer engagement (23:43)
+Service Advisors
+	•	Implement QR code procedures for post-service review requests to increase service-specific Google reviews (26:13)
+Digital Teams/IT
+	•	Investigate and resolve slow website load times due to outdated UTM/GTM tags or other technical issues (39:01)
+Marketing Teams
+	•	Review service specials’ online visibility and improve conversions from service page visits to appointment bookings (41:06)
+All Dealers
+	•	Test and evaluate mobile service appointment booking processes; strive to reduce booking time to under two minutes to enhance customer experience (45:16)
+Group Dealers
+	•	Share Google business profile access within dealer groups per provided instructions to enable better data use and collaboration (54:38)
+

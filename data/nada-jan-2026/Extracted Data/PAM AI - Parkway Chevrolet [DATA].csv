@@ -1,0 +1,30 @@
+Metric,Value
+Total_Calls,7892
+Total_Agents,361
+Booking_Rate,69.42%
+Handle_Rate,66.74%
+Avg_Resolution_Rate,66.83%
+Total_Accounts,400
+Calls_Answered,413
+Resolution_Rate_Pct,97%
+Avg_Resolution_Time,8.57h
+Seat_Occupant,0
+
+Advisor,Email,Calls_Handled,Completion_Rate,Success_Rate
+Kevin Brumley,kevin.brumley@parkwaychevrolet.com,202/202,,100%
+Jordan,jordan@parkwaychevrolet.com,178/178,44.1%,100%
+MFPEJ,mfpej@parkwaychevrolet.com,7/7,17%,100%
+
+Call_Type,Count
+Speak To Specific Human,1337
+Unclear Intent,1279
+Speak To Human on Parts,1053
+Speak To Human in Service,1279
+Others,1684
+
+Drop_Off_Reason,Percentage
+Requested Specific Advisor,35%
+Successfully Handled,19%
+Hung Up Immediately,19%
+Preferred a Human Agent,9%
+Others,18%

@@ -1,0 +1,385 @@
+Date: January 12, 2025
+Location: Atlanta Georgia
+Group Theme / Brand: Dealership Composite September 2025
+Attendees: GC06
+Married - Internal 
+Married - Fireflies + Personal notes
+NADA Meeting - Strategic Direction For SS
+Fireflies NADA Meeting Summaries
+ServiceSync – Internal Product & Strategy Notes
+NADA Service & Parts Leadership Meeting Minutes
+GREG - NADA Service & Parts Leadership Meeting Minutes
+
+	•	Notes from this meeting:
+	•	Volkswagon - Scout (customers direct to manufacturer)
+HOT
+	•	Respond to Calls (01 - )
+	•	getting phone calls answered and responding to customers in a timely manner in service
+	•	BDC not working well; centrally located in office and phone calls bounced to dealership and back
+	•	PAM Ai: phone tree for dealership —> have to do that with AI
+	•	manage majority not minority
+	•	(Kevin on dev board and everything want to change they do it in minutes)
+	•	Service Retention (O2 - Forbes guy)
+	•	Manufacturer Retention (GM): 1st year ~70-85% but want to be as closet to 90% and thats where AI comes into play
+	•	1396 - where is money is at (get customer in)
+	•	No outbound calling; just texting
+	•	Matador and Toma tossing them around
+	•	CSI not a major issue; more pos than negative
+	•	Reaching out to tekion and reaching out to customers
+	•	Can set system up to re-call it and take message and see on dashboard and setup people so other people in dept can call ——> customization for dealership
+	•	Video MPI’s (04 - )
+	•	Scheduling (05 - Brad)
+	•	not Huge issue - too much work, not enough work, cars sitting for days and weeks, big jobs doesnt matter when low numbers and low talent
+	•	low on time slots; tough to get to center and think like advisor or tech.. they dont know ive got this and this going on vs someone taking appointment up front
+	•	Scheduling (O6 - Mike)
+	•	somedays too much work and some days not enough work
+	•	balance between appointment scheduling and shopload
+	•	bring them in or using based on availability
+	•	CP vs Warranty work (07 - )
+	•	Tracking postpone repairs and updating client (11 - Josh)
+	•	Tech Career Path (14 - Casey)
+	•	mentor program with techs but dont have something structured (based on chevy)
+	•	dealers more than happy for apprentice systems (BSTs pay but techs not paid for web based training)
+	•	Video MPI’s (17 - )
+	•	want to be doing them but not
+	•	how can implement while keeping positive culture
+	•	if techs below 80% videos, then paid 80% of what they would
+	•	Hire college kids to do them
+	•	Hard to convince if start with main shop, start in quick lube and people ask whats going on (social pressure)
+	•	Sells more
+	•	Tech EFC vs Prod (20 - )
+	•	how do you fix that
+	•	dont have techs so how to put pressure on them: every tech has different personality, some can press on, some have to coddle, some dont - comes from spending time and getting to know employees)
+	•	goes back to same core issue of MPI hold
+	•	Recondition Process (21 - Dave)
+	•	price self out for reconditioning; not keeping used cars than need work and cutting money and fixes then unhappy customer comes back with broken
+	•	Battle with used car director and service department
+	•	how much it comes back and affects value of the car
+	•	Walk ins No Desire to Wait for Diagnose (23 - Chris)
+	•	10-15 out 80 daily… walk in oil changes/rotate/inspection and then customers that want to wait for diagnose
+	•	up to advisor to communicate right expectation
+	•	take wait word out of vocabulary
+	•	can software add prompt — start using ai oil change appointments but concern is real person catching that in conversation
+	•	Extended Warranty (24 - Casey)
+	•	Cashier vs Advisor (26 - Penny)
+	•	Videos #1, #2 cashier vs advisor for checkout)
+	•	Cashier removed from all
+	•	last person customer should see is your advisor
+	•	Increase Fleet Business (27 - )
+	•	Got Buy in
+	•	Comms
+	•	DealerFX not happy with it (Steve - 14)
+	•	technican side: putting in recs for job, they want to keyboard it and adding communication to parts department is difficult
+	•	reynolds
+	•	technician and advisor cant be in ticket at the same time until they clear the screen
+	•	Dealerlogix
+	•	better than dealerfx
+	•	helps with retention, text with customer, employees talk with each other
+	•	customer text advisor and if no reply, it goes out to all advisor and everybody can be in ticket
+	•	Misc
+	•	Parts Backlog
+	•	backed designated appts for day to catch up, but then have more walkins and that doesnt clean up at all… get more loaded up
+	•	Have just as many walkins than appts each day —> Expectation for customer up to advisor
+	•	Rule: If they have appointment, they get diagnosis
+	•	Walkins do not guarantee that
+	•	Centralized Dispatch for technicians
+	•	Communication Tool with departments
+	•	reynolds and dealerfx: technician and advisor cant be in ticket at the same time until they clear the screen
+	•	MPI - quality work incentivizes customer to buy more work; need quality video not flyby; both videos and pictures
+	•	Tools: garbage in garbage out - have all the tools but not putting in right info, and not using in right notes (could be how ppl being managed and held accountable to)
+	•	Shop Practices
+	•	Daily/Weekly Meetings
+	•	Whiteboard: who has what going, who has how many hours by tech and advisor; delivery list and cross out as through them;
+	•	Parts: look at log book from dispatcher night before: special order parts, whats here, whats going on truck delivered today/tomorrow
+	•	what car has parts, how bigs parts, list technician and who has what jobs and need what parts each day
+	•	can keep customer udpated if technician has two 9 hours jobs and say hey your car might not be ready today —> AI to predict
+	•	Manual dispatch books: excel sheets (Penny - 26)
+	•	Declines: track how many declines because of discounts (take away from parts, labor, technician hours)
+	•	take some from three
+	•	TOing over decline service over
+	•	Pitch financing, sell job, throw in loaner car and no discount (give flexibility and terms)
+	•	Rankings Sheet: techs and what percentages are versus their peers (if they want to raise pull out sheet)
+	•	Running Notes
+	•	With AI phone: service to customers happen instantaneously - budget needed
+	•	Dashboards and customizable - so others can pick up others work
+	•	Focus on customer’s expectation
+	•	Dispatch Books
+	•	Focus on Service Manager Supertool
+	•	Service Manager TO (we do in sales, why not for service)
+	•	Finding which platforms could be compatible
+	•	Communication with Parts
+	•	Customer facing tool like dominos pizza
+	•	Making sure getting most out of tool - making tool advisers want to use; need to see results such as selling more jobs
+	•	getting to know employees and what drives them: software adapts to each user
+	•	market allows them to get complacent and with job market, know they can find a job at any one
+	•	tail wagging the dog vs coddling
+	•	manage process not the people
+	•	Better GPT for dealers (print structured plan, train notes meetings, real operations, training manuals - simple chat tool)
+	•	AI for potential issues based on cars communicated to customer before appointment and potential re
+	•	Opportunities for a lot of partnerships with existing programs (radios, etc)
+	•	Main themes:
+	•	communication between depts
+	•	keeping techs and advisors happy - incentivize them to use tools properly: customers
+	•	Companies:
+	•	PAM
+	•	Matador, Toma, Alpha Drive
+	•	Scheduling Companies
+	•	reynold reservation manajer
+	•	reynolds osf
+	•	After convos:
+	•	Laurie (26) - ALPHA DRIVE what system their working
+Composite Session 1
+	•	Page B: Casey 24
+	•	Consistency (newest advisor there 6 years) - Turnover
+	•	Page 3: Alex 41
+	•	Column 7: 87% not quite absorbed
+	•	Columb 3: 43% absorbed in service department (2nd highest in group)
+	•	Page B, Column 9: up 857k in gross; Col11: up 525k in profit
+	•	Page C, Parts sales: up 943k; Col3: up 433k gross, Col4: 144k expenses
+	•	gross outrunning expensing
+	•	Col5 145k in additional profit
+	•	Up 672k
+	•	What he’s doing: Building 2 new shops in building, added more lifts (gives more time to sell)
+	•	Service manager has to sell more time; build more lift to have more customers
+	•	All tickets go through ___
+	•	QC every car 11 miles so no come back problem
+	•	Radios between parts counter and quickline and parts counter and parts foreman
+	•	Radios work a lot better than software*** —> partnerships with existing companies
+	•	11 - Steve:
+	•	Quick lube improvement
+	•	Flushes/Fluid exchanges
+	•	Stall management - not all techs treated same (2 stalls for some, cut your stall, half, until you prove how much money you can earn)
+	•	Culture building; positive and negative feedback
+	•	if youre doing suspension work - don’t need 2 stalls
+	•	heavy line - need 2 because waiting for part to arrive
+	•	depends type work they do, what average is,
+	•	01 - Paul
+	•	Switched from teams to dispatch system then went to used car team as well
+	•	4 advisors who had techs assigned to team
+	•	dispatch: every tech avail to every advisor
+	•	tool: oldschool paper
+	•	used car team opened up work for main line
+	•	Brad - 05
+	•	Techs good at fixing but not recommending mainentence
+	•	Running Notes:
+	•	Check numbers of advisors sending menus to customers:
+	•	Inspection back: checking rate, email to customer, follow up
+Idea Sessions
+	•	Chevyland
+	•	make a menu
+	•	05 — Brad
+	•	Tool Organization Service
+	•	01 - Paul
+	•	Used car service team: techs concerned by taking away their work; team of 3 (strong B tech, express guy, strong c tech); flat rate; i dispatcher is internal advisor; ncreased return in used dept and free’s up time in main shop;
+	•	Parkway
+	•	PAM AI — Bare minimum is CSSR, all chips into call campaigns; lots of time freed up
+	•	Ourisman
+	•	Structured the menu
+	•	06 - Brandy + Michael
+	•	Analysis Paralysis; asking hard questions whats stopping you from being more productive; you let obstacles get in the way and thats why paycheck isnt what it is
+	•	Emich - Austin
+	•	menu update and mileage based recommendations —> make a menu so not based on memory; increase in utilization by 19%
+	•	increased return visits by fixing xtime/reynolds workflow issues
+	•	lots of undecided decisions and get customers to come back and schedule —> 70% increase
+	•	Quick lube structure redesign - flat rate pay plan;
+	•	Dan - 21 (pinebelt)
+	•	opportunity to aqcuire more cars in the service lane
+	•	each car gets a mirror hangar and letter and check in the glovebox and then next day advisor follows up
+	•	sales sells car, service is honeymoon of marriage, and service gets it back
+	•	cherry pick ROs to put all the items in the night before (not the 2025 equinox but maybe the 2019 equinox)
+	•	Chris - 23
+	•	upsells in the drive
+	•	teams of 2
+	•	Brandon - 24
+	•	Chris Collins helps advisors being efficient with walkarounds and continuous online and in store training; 103cpepr and hours went up 2.6; 100k investment and 11 million profit 7 years
+	•	Penny - 26
+	•	battery tests and alignment checks
+	•	shuffle drivable collision to service lane
+	•	get data from collision into dms system and opportunity to shake down car and sell products and repair
+	•	41 - Alex
+	•	QR code stickers to show videos of car and schedule appointment
+	•	schedule online easily without callling
+	•	Running ideas:
+	•	focus on teams in the service department
+	•	gamify experience of dashboard or app for competition —> points towards prizes at companies etc
+	•	how can avoid calling all together - text and pizza progress or link
+Steve’s Discussion
+	•	Keys to Success
+	•	leadership, people, processes, motivating pay plans, dealership culture and environment, management support, training and career paths, people
+	•	Why not salesman introduce customer to service department on way out?
+	•	KBB.com and repairpal.com
+	•	service advisor gets most gross dollars earned for dealership, not salespeople; they get the least respect and the hardest job; parts and pans part of business
+	•	How to drive hours per RO
+	•	primary and secondary many
+	•	train
+	•	FAB
+	•	Feature
+	•	Advantage
+	•	Benefit
+	•	measure (accountable)
+	•	video MPi
+	•	payment options
+	•	presell out of BDC (plant seed)
+	•	walk around
+	•	check history
+Meeting Takeaways
+	•	Quick lube labor gross %
+	•	Increase hours per RO
+	•	Implement MPI Video
+	•	Bin Counts/perpetuals
+	•	MPI
+	•	Implement Alex’s QR Codes
+	•	Increase hours per RO + figuring out how to separate out quick service from main service
+	•	Collecting from extended warranty
+	•	Sales to service handoff
+	•	TO success and service customers that decline service by manager
+	•	precalling online appointments to see if anything want to add
+	•	FAB
+	•	shop foreman (Used car techs combined for all 3 stores and move to another building this week )
+	•	Look into AI for special order parts ordering (getting them back, texting, calling)
+	•	Deep dive into expenses
+	•	(16 casey) change parts handling for extended warranty
+	•	HRS per RO increase
+	•	upsells in quick lube
+	•	HRs per RO and onboard process
+	•	Fill available hours
+	•	Hours per ROs in Quick lube
+	•	get a more focus on better onboarding process; building process for continuous flow of information
+	•	Daily huddle/parts sheet
+	•	quick lube hours per RO
+	•	service gross per technician
+	•	incentivizing advisors (are you head of household)
+	•	marking up sublet
+	•	central dispatch vs a team dispatch
+	•	warranty receivables (being aware, paying attention)
+	•	take advisor best practice list and clean that up + ongoing training
+	•	work all things efficiency; productivity… do more with the same… grow revenue/gross more than expenses; probably already paying for the tools, just not using what we’re paying for
+	•	Solid onboarding and internal technician development program
+	•	Focus on hours per RO thorugh quality video MPI, daily huddle (get everybody together and focused, setting objectives to ensure hitting hour objective each day)
+	•	markup sublet and get more gross; better sales to service handoff (increase retention on first service visit and keep customers coming back to us)
+Proficiency Rating — hours billed / hours available
+	•	how are they filling up an 8 hour day?
+	•	every tech you have, even lube techs
+	•	if use same calculation every time you have your benchmark
+Group Discussion Tuesday
+	•	if technician is sitting there we want to get him working
+	•	to increase technician proficiency - keep advisors out of shop; everyone go to shop foreman so they have one point of contact
+	•	just actions required to get done; doesnt cost anything
+	•	Do T.O. process; manager
+	•	changing culture of service department (dont want to stay late, dont want to add extra hours, if thats the case, day starts at 8 are they walking in at 8 or turning wrench at 8)
+	•	what is parts dept doing to support efficiency of technicians —> nothings changed in parts to keep going, not using techs, not preloading shop and putting parts out
+	•	preloading parts is huge
+	•	pull in cars for technicians
+	•	allowing techs to have relaxes schedule as long as they get their hours in per day
+	•	people that want later appointments for those that start later
+	•	some that have there early and leave early (requires them to prepull parts day before)
+	•	also make sure somebodys in service if someone needs help; shop foreman and cameras
+	•	scoreboard updating daily - everybody up to date where they’re at and post in lounge when everybody eats lunch; if somebody in red below their hours at lunch —> that drives them to catch up. competition
+	•	increase energy and relationship through the day: caring, being present,
+	•	company to come in and organize tool room —> increases efficiency and better attitude
+	•	technician advisory panel: advisors have lunch with techs once a month so they feel they have part in processes (need new air hose etc)
+	•	text threads (main shop, techs)
+	•	shop meeting - first friday each month, go over everything wrong and everything right
+	•	holding technicians accountable - how many hours turned day prior; why?
+Parts
+	•	Parts (how it helps or hinders proficiency model)
+	•	parts runner - taking to stalls
+	•	pre-pulling parts (argument against: sit on counter, get lost)
+	•	how does special order parts affect proficiency:
+	•	print weekly special order parts, call special order parts, list of people to come in for parts
+	•	blue sheets on CDK - when part comes in, parts manager puts blue sheets on counter and take to advisor and take copy to BDC so know advisor or BDC is calling to set appointment for special order part
+	•	why not set appointment when order part? Dont know when it comes in; delivery date changes/truck comes in
+	•	streamline process with AI; increase appointment rate on special parts —> Do it with PAM Ai
+	•	look at special order parts ~ twice weekly (opportunity to check dashboard each day)
+	•	they’re dead dollars sitting there unless if customer prepays
+	•	put date arrived, make sure appointment set for customer
+	•	Lost Sales (key metric)
+	•	if tracking lost sales
+	•	service writer - customer comes in and dont have part - if it goes to another dealer that has part, then that needs to be tracked
+	•	consider lost part a Hit; record as a Hit
+	•	Big question: what do you do with that data?
+	•	should:
+	•	need to know demand for all the parts
+	•	Parts managers sit with service managers to go over what parts needed (part of dashboard)
+	•	talk with advisors
+	•	Its mathetmatics
+	•	if using too much gut, run into trouble
+	•	adjust ordering based on season - this helps proficiency
+	•	does RIM track this? Doesnt recognize cold and warm
+	•	if part in demand across country, going to be pushed to you daily
+	•	if creating demand in DMS
+	•	garbage in garbage out, gotta set it up
+	•	Have to look at RIM and manage it to that base
+	•	if on ASR and RIM bring it in
+	•	Depends on somebody ordering who is too active on declining
+	•	Dealer tire - making sure somebody doing quotes 100% of the time
+	•	Parts and Service manager need to work together and have same work ethic (operate as one: fixed operations dept)
+	•	if waiting on special part, as soon as there bill it out and take it to tech)
+	•	build relationship between the two managers: both need to understand objective of each
+	•	sell after market parts: kpi’s drop from 90 to 85%
+Running Thoughts
+	•	Forbes dinner - analytics for dealership and a dashboard —> find out what analytics
+	•	Tool for service managers as they have the authority to sign on new platform or integrate both into one.
+	•	What do the service advisors need specifically to achieve these goals of service managers in this meeting?
+	•	All these meetings to compare other dealerships hours per RO why not on bigger scale - dashboard for 20 group and leaderboard of stats that were most important in meeting
+	•	customer facing booking service appointments and price transparency
+	•	companion to AI calling - partner with companies what complements that
+	•	single tool
+	•	previous meeting and this meeting calculations on service pages in composition book
+	•	tech for parts — preloading parts for teh day —> dashboard that marries parts and service
+	•	competition is key for driving hours per RO with techs and service advisors
+	•	Marry flow between parts and service
+	•	opportunity for special order parts (tracking demand) — complete parts prediction
+	•	Analysis of parts and timing
+Composite Session 2
+	•	Page 6
+	•	fill rates off the shelf
+	•	col11 and 12
+	•	inventory dollar term: col 12a / coll11a (cost of sales / current inventory)
+	•	turning __% of inventory each month
+	•	should measure unit term and dollar term to understand where money going and how money going
+	•	service managers and parts should be investment guys
+	•	You could have inventory on shelf, saying moving in 12 months, but also have pieces of inventory sitting there 3 years / obsolete
+	•	page 40 col2b
+	•	Inventory control
+	•	pull RO sales to look at those different on KPO orders
+	•	on regular, RIM picks it up
+	•	heavy on collision side, pull separate
+	•	Parts inventory and the turn
+	•	proficiency normally looking at technician and how to manage them better - its a big part
+	•	but also behind scene is parts dept, and thats not as simple — theyre not silos and they and service interchange together so need to focus on both
+	•	who is best customer for service? used car manager — pg 22 col4a
+	•	what theyre spending with you to recondition used vehicles
+	•	theyre not spending with you what theyre wholesaling
+	•	4a is what theyre not spending with you bc wholesaling the vehicle — how much more money sitting there for dealership?
+	•	in dealer composite pg 41a: 4a total gross profit before chargebacks that a used car makes; col12 line b
+	•	holding costs, theres discrepancies on amount of calculations in there
+	•	take whatever starting point you want and stick with that
+	•	take that number and divide it into the total gross of the car (First number wrote down)
+	•	number represents how many days they have to sell that car to breakeven, not to make a single penny - thats breakeven days
+	•	as service manager you impact that number 100%
+	•	take how many days it is and subtract the number it takes to get it through recon and tell how many days that is before breakeven
+Relationship between Service Manager and Used Car Manager
+	•	guardrails have to be established between it; its the dealers money not mine
+	•	bonus structure from sales dept to used car technicians so if maintain certain dollar below x per car
+	•	what if you pay used car manager on some of shop work; or piece of internal gross at certain percentage
+	•	
+	•	Whats reconditioning process?
+	•	Chevyland
+	•	3 day turnaround
+	•	UVI system: gage appraise vehicle, pull through service drive, zeus snapon scanner to plug it up all makes and models, see what codes — gives pricing for those types of repairs; looks at tires etc and put into appraisal
+	•	take it on trade, robert gets RO written up, dispatched to used car techs, get parts and repaired (sublets for windshield called in etc)
+	•	next conversation, tech sends through estimate
+	•	Trust process between gage and robert and josh (Service manager)
+	•	Average Recon time — 7-10 days
+	•	
+Todo
+	•	giri
+	•	partsync
+	•	map architectures and programs
+Increase Labor Rate from GM
+QB Solutions
+Fairchild
+Dynatron
+A__
+

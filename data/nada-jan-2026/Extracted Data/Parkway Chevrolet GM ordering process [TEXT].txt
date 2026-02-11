@@ -1,0 +1,72 @@
+\,.~
+
+,..
+
+.....
+
+·c/,,,,..
+
+., ,
+
+GM Ordering Process
+
+I. Pull Parts Requests
+•
+
+Throughout the day, all C O and OV parts that need to be ordered for service and
+customers.
+
+2. Submit Daily GM Order
+•
+
+Submit all CSO and OVN parts to GM every day at 1:50 PM.
+
+3. Review Order Results
+•
+
+After submission, review the order to see what filled and what went on backorder.
+
+4. Open SPAC Case
+•
+
+Any part that goes on backorder gets a SPAC case opened immediately.
+
+5. Update Tekion
+•
+
+Enter the SPAC ca e number in the comments section in Tekion so everyone can see
+the status.
+
+6. Communicate with Service Advisors
+•
+
+Notify the service advisor if their part is on backorder and let them know a SPAC case
+has been submitted.
+
+7. Receive and Check In Parts
+•
+
+As parts arrive, receive them in the ystem and verify they're correct and accounted for.
+
+8. Notify When Parts Arrive
+•
+•
+
+For service orders, notify the service advisor that the parts are here.
+For over-the-counter customers, contact the customer to let them know their part has
+arrived.
+
+9. Weekly Unbilled Parts Report (Every Wednesday)
+•
+
+Send an email to the Fixed Ops Director and Service Director listing parts that have
+been received for the service department but not yet billed out.
+
+,.
+.··._.\{\:-:·:
+
+,,~u-:···
+,·.
+,;!,r<~-1~~r·;;'.,;·~':'{','j
+
+

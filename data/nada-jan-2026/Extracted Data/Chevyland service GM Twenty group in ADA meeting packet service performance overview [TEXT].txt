@@ -1,0 +1,60 @@
+GM 20 Group/ NADA Meeting Packet
+Service Perfonnance Overview
+
+1. Key Idea Shared With the Group
+Technician Hour Accountability combined with Menu-Driven Selling. Service operations are managed as a production
+environment with daily and monthly targets for available versus billed hours. Advisors sell from a structured service
+menu to drive consistency, increase effective labor rate, and improve hours per RO.
+Why It Works:
+•
+
+Improves billed hours and labor gross
+
+•
+
+Creates advisor consistency regardless of staffing
+
+•
+
+Reduces unpaid diagnostic time and inefficiencies
+
+•
+
+Exposes opportunities early instead of at month-end
+
+2. December Technician Capacity & Efficiency
+Technician Schedule:• Monday-Friday: 24 technicians x 9 hours• Saturday: 7 technicians x 6 hours• Sunday: Closed
+December Breakdown: • Weekdays: 23 days • Saturdays: 4 days Available Hours Calculation: • Weekdays: 24 ·x23 x 9
+
+= 4,968 • Saturdays: 7 x 4 x 6 = 168 Total Available Hours: 5,136
+Total Billed Hours: 4,167.90
+December Efficiency: 81.2%
+
+Service Process Controls
+3. Service Menu Usage
+Advisors sell from a structured service menu rather than memory. Menus clearly separate maintenance and repair
+recommendations to support consistent pricing, improve customer understanding, and reduce discretionary discounting.
+
+4. Special Order Parts (SOP) Process
+
+•
+
+Advisor adds required special-order parts to the Repair Order (RO).
+Parts department orders all parts listed on the RO.
+
+•
+
+A weekly Special Order Parts report is printed and reviewed .
+
+•
+
+Once all parts for a customer vehicle have arrived, the report is provided to BOC.
+
+•
+
+BOC contacts the customer and schedules the appointment only when all parts are in stock.
+
+This process reduces aging special-order inventory, protects cash flow, improves technician efficiency, and ensures
+repairs are completed in one visit whenever possible.
+
+

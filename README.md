@@ -166,7 +166,12 @@ vercel deploy
 
 ## 🔐 Security & Confidentiality
 
-**Critical Requirements:**
+**Repository Access:**
+- Private repository within ServiceSync-AI organization
+- All NADA meeting files included for team processing
+- Controlled access via GitHub organization membership
+
+**Critical Requirements for Public Brief:**
 - ❌ No emails, phone numbers, or PII in public site
 - ❌ No named dealer performance rankings
 - ❌ No attributed quotes to specific people
@@ -174,7 +179,7 @@ vercel deploy
 - ✅ Anonymous performance distributions
 - ✅ Aggregated metrics only
 
-All sensitive data protected via Supabase RLS policies.
+All sensitive data protected via Supabase RLS policies in final microsite.
 
 ---
 

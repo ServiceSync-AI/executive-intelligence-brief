@@ -49,7 +49,3 @@ htmlcov/
 tmp/
 temp/
 *.tmp
-
-# Data files (confidential)
-data/nada-jan-2026/*
-!data/nada-jan-2026/README.md
