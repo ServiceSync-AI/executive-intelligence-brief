@@ -1,0 +1,51 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Node
+node_modules/
+.next/
+out/
+.vercel
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Supabase
+.supabase/
+
+# Temporary
+tmp/
+temp/
+*.tmp
