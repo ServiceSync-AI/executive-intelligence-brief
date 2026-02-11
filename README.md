@@ -177,7 +177,7 @@ Commitments + Metrics → Charts (Plotly) → Microsite (Next.js)
 ### Prerequisites
 - Node.js 18+
 - Python 3.10+
-- OpenAI API key (add to `.env.local`)
+- OpenAI API key (business account - ask Frazier)
 - AWS account (optional, for hosting)
 
 ### Supabase Project (Already Set Up ✅)
@@ -186,7 +186,7 @@ Commitments + Metrics → Charts (Plotly) → Microsite (Next.js)
 **URL:** https://easyazauclbtxgkxyfbe.supabase.co  
 **Dashboard:** https://supabase.com/dashboard/project/easyazauclbtxgkxyfbe
 
-Credentials are in `.env.local` - just add your OpenAI API key!
+Credentials are in `.env.local` - ask Frazier for the OpenAI API key!
 
 ### Supabase Project (Already Set Up)
 
@@ -210,9 +210,10 @@ pip install -r requirements.txt
 cd app && npm install && cd ..
 ```
 
-2. **Add your OpenAI API key to `.env.local`:**
+2. **Add OpenAI API key to `.env.local`:**
 ```bash
-OPENAI_API_KEY=sk-your-key-here
+# Ask Frazier for the business account API key
+OPENAI_API_KEY=sk-proj-...
 ```
 
 3. **Verify Supabase connection:**
@@ -244,19 +245,42 @@ If you prefer manual setup, see [Developer Setup Guide](docs/DEV_SETUP.md).
 ## 📚 Documentation
 
 - **[README.md](README.md)** - Project overview and quick start
+- **[STATUS.md](STATUS.md)** - Current progress and next actions
+- **[data/nada-jan-2026/DATA_INVENTORY.md](data/nada-jan-2026/DATA_INVENTORY.md)** - File processing priority (45 files to process, 28 duplicates to skip)
 - **[docs/PROJECT_GUIDE.md](docs/PROJECT_GUIDE.md)** - Complete phase-by-phase implementation guide
 - **[docs/DEV_SETUP.md](docs/DEV_SETUP.md)** - Developer onboarding (30-60 min)
 - **[docs/ROADMAP.md](docs/ROADMAP.md)** - Project phases and milestones
 - **[docs/WORKFLOWS.md](docs/WORKFLOWS.md)** - CI/CD setup instructions
+- **[docs/NOTION_TRACKER.md](docs/NOTION_TRACKER.md)** - Notion project management template
 - **[docs/notion-reference/](docs/notion-reference/)** - Original Notion planning docs
 - **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Quick commands and paths
 - **[PROJECT_SUMMARY.md](PROJECT_SUMMARY.md)** - Complete project summary
+
+**GitHub Resources:**
+- **Issues:** https://github.com/ServiceSync-AI/executive-intelligence-brief/issues
+- **Project Board:** https://github.com/orgs/ServiceSync-AI/projects/1
+- **Supabase Dashboard:** https://supabase.com/dashboard/project/easyazauclbtxgkxyfbe
 
 ---
 
 ## 🔄 Workflows
 
-### 1. Ingest Documents
+### Current: Phase 2 - Data Ingestion
+
+**Goal:** Process 45 priority files from `data/nada-jan-2026/to-process/`
+
+**Steps:**
+1. Set up Supabase storage buckets (Issue #1)
+2. Build parsers for PDF, DOCX, images (Issues #2-4)
+3. Implement chunking and embeddings (Issues #5-6)
+4. Run ingestion pipeline (Issue #7)
+5. Validate data (Issue #8)
+
+**See:** [DATA_INVENTORY.md](data/nada-jan-2026/DATA_INVENTORY.md) for file processing order
+
+### Future Workflows
+
+#### 2. Build Knowledge Index
 ```bash
 # Process all NADA files
 python ingest/ingest.py --directory data/nada-jan-2026
