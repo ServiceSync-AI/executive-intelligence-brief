@@ -1,7 +1,8 @@
 # Project Status
 
 **Last Updated:** 2026-02-11  
-**Overall Progress:** 16% (Phase 1 Complete)
+**Overall Progress:** 16% (Phase 1 Complete)  
+**GitHub Project:** https://github.com/orgs/ServiceSync-AI/projects/1
 
 ---
 
@@ -19,17 +20,16 @@
 **Target:** 2 weeks
 
 ### Week 1: Parsers
-- [ ] Set up Supabase project
-- [ ] PDF parser (`ingest/parsers/pdf_parser.py`)
-- [ ] DOCX parser (`ingest/parsers/docx_parser.py`)
-- [ ] OCR parser (`ingest/parsers/image_parser.py`)
-- [ ] Text chunking (`ingest/chunker.py`)
+- [ ] [#1](https://github.com/ServiceSync-AI/executive-intelligence-brief/issues/1) Set up Supabase project
+- [ ] [#2](https://github.com/ServiceSync-AI/executive-intelligence-brief/issues/2) PDF parser (`ingest/parsers/pdf_parser.py`)
+- [ ] [#3](https://github.com/ServiceSync-AI/executive-intelligence-brief/issues/3) DOCX parser (`ingest/parsers/docx_parser.py`)
+- [ ] [#4](https://github.com/ServiceSync-AI/executive-intelligence-brief/issues/4) OCR parser (`ingest/parsers/image_parser.py`)
+- [ ] [#5](https://github.com/ServiceSync-AI/executive-intelligence-brief/issues/5) Text chunking (`ingest/chunker.py`)
 
 ### Week 2: Integration
-- [ ] Embeddings (`ingest/embedder.py`)
-- [ ] Main ingestion script (`ingest/ingest.py`)
-- [ ] Process all 72 files
-- [ ] Validate data in Supabase
+- [ ] [#6](https://github.com/ServiceSync-AI/executive-intelligence-brief/issues/6) Embeddings (`ingest/embedder.py`)
+- [ ] [#7](https://github.com/ServiceSync-AI/executive-intelligence-brief/issues/7) Main ingestion script (`ingest/ingest.py`)
+- [ ] [#8](https://github.com/ServiceSync-AI/executive-intelligence-brief/issues/8) Validate data in Supabase
 
 ---
 
