@@ -1,7 +1,7 @@
 # Project Status
 
 **Last Updated:** 2026-02-11  
-**Overall Progress:** 16% (Phase 1 Complete)  
+**Overall Progress:** 18% (Phase 1 Complete, Phase 2 Started)  
 **GitHub Project:** https://github.com/orgs/ServiceSync-AI/projects/1  
 **Data Inventory:** [View organized files](data/nada-jan-2026/DATA_INVENTORY.md)
 
@@ -12,13 +12,15 @@
 **Completed:**
 - ✅ Repository structure and documentation
 - ✅ Supabase project configured (https://easyazauclbtxgkxyfbe.supabase.co)
+- ✅ Storage buckets verified (raw-docs, assets)
 - ✅ 72 NADA files loaded and organized (45 priority files identified)
 - ✅ GitHub Project board with 8 Phase 2 tasks
 - ✅ Data inventory and processing priority defined
 
 **Next Up:**
-- Phase 2: Ingestion Pipeline (8 tasks, ~2 weeks)
-- Start with Issue #1: Set up Supabase storage buckets
+- Issue #2: Build PDF parser
+- Issue #3: Build DOCX parser
+- Issue #4: Build OCR parser
 
 **Team:**
 - Frazier Horn (Lead) - frazier@servicesync.io
@@ -35,12 +37,12 @@
 
 ---
 
-## Phase 2: Ingestion Pipeline ⏳ 0%
+## Phase 2: Ingestion Pipeline ⏳ 12.5%
 **Owner:** TBD  
 **Target:** 2 weeks
 
 ### Week 1: Parsers
-- [ ] [#1](https://github.com/ServiceSync-AI/executive-intelligence-brief/issues/1) Set up Supabase project
+- [x] [#1](https://github.com/ServiceSync-AI/executive-intelligence-brief/issues/1) Set up Supabase project ✅
 - [ ] [#2](https://github.com/ServiceSync-AI/executive-intelligence-brief/issues/2) PDF parser (`ingest/parsers/pdf_parser.py`)
 - [ ] [#3](https://github.com/ServiceSync-AI/executive-intelligence-brief/issues/3) DOCX parser (`ingest/parsers/docx_parser.py`)
 - [ ] [#4](https://github.com/ServiceSync-AI/executive-intelligence-brief/issues/4) OCR parser (`ingest/parsers/image_parser.py`)
@@ -103,6 +105,6 @@
 - None! Ready to start Phase 2
 
 ## 📅 Next Actions
-1. Add OpenAI API key to `.env.local` (ask Frazier)
-2. Verify Supabase storage buckets exist (Issue #1)
+1. ✅ ~~Add OpenAI API key to `.env.local`~~ (ask Frazier when needed)
+2. ✅ ~~Verify Supabase storage buckets exist~~ (Issue #1 complete)
 3. Start building parsers (Issues #2-4)
