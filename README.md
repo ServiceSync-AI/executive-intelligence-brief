@@ -42,6 +42,7 @@ Commitments + Metrics → Charts (Plotly) → Microsite (Next.js)
 /
 ├── ingest/              # Document parsing and ingestion
 │   ├── ingest.py        # Main ingestion script
+│   ├── ingest_smoke.py  # Configuration validation
 │   └── parsers/         # PDF, DOCX, image parsers
 ├── analysis/            # Knowledge extraction and analytics
 │   ├── index_builder.py         # LLM-driven topic extraction
@@ -54,10 +55,13 @@ Commitments + Metrics → Charts (Plotly) → Microsite (Next.js)
 ├── app/                 # Next.js microsite
 │   └── components/
 │       └── sections/    # Page sections per storyboard
+├── data/
+│   └── nada-jan-2026/   # 72 NADA meeting files (PDFs, DOCX, data)
 ├── design/              # Figma exports and design tokens
 ├── docs/                # Documentation
 │   ├── DEV_SETUP.md     # Developer onboarding
-│   └── ARCHITECTURE.md  # System architecture
+│   ├── ROADMAP.md       # Project phases
+│   └── WORKFLOWS.md     # CI/CD setup
 ├── .github/
 │   └── workflows/       # CI/CD automation
 ├── sample-data/         # Test files
@@ -133,9 +137,10 @@ npm run dev
 
 ### 1. Ingest Documents
 ```bash
-python ingest/ingest.py --file path/to/document.pdf
+# Process all NADA files
+python ingest/ingest.py --directory data/nada-jan-2026
 ```
-Parses, chunks, generates embeddings, stores in Supabase.
+Parses 72 files (PDFs, DOCX, images), chunks text, generates embeddings, stores in Supabase.
 
 ### 2. Build Knowledge Index
 ```bash
@@ -145,7 +150,10 @@ LLM extracts canonical topics with evidence traceability.
 
 ### 3. Extract Commitments
 ```bash
-python analysis/normalize_commitments.py --images path/to/takeaways.jpg --review
+# Process handwritten takeaways
+python analysis/normalize_commitments.py \
+  --images data/nada-jan-2026/Meeting\ Follow\ Up\ Email\ Attachments/Take\ A\ Way\'s.pdf \
+  --review
 ```
 OCRs handwritten notes, maps to themes, manual QA.
 

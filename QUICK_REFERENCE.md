@@ -51,12 +51,16 @@ cp .env.example .env.local
 
 ## 📊 Data Summary
 
+**Location:** `data/nada-jan-2026/`
+
 - **Total Files:** 72
-- **PDFs:** 25
-- **DOCX:** 13
-- **Extracted Data:** 27
-- **Images:** 1
-- **Markdown:** 2
+- **PDFs:** 25 (agendas, handouts, homeworks, follow-ups)
+- **DOCX:** 13 (notes, summaries, strategic docs)
+- **Extracted Data:** 27 (text files, CSVs)
+- **Images:** 1 (roster)
+- **Markdown:** 2 (knowledge index, traceability)
+
+All files included in repository for team access and processing.
 
 ## 🎯 Current Phase
 
