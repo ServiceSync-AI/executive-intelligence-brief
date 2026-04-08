@@ -1,0 +1,833 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Executive Intelligence Brief — NADA GC06</title>
+  <style>
+    :root {
+      --bg: #ffffff;
+      --text: #111827;
+      --muted: #6b7280;
+      --soft: #9ca3af;
+      --line: #e5e7eb;
+      --panel: #f9fafb;
+      --bar-bg: #e5e7eb;
+      --bar-fill: #9ca3af;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    .container {
+      max-width: 880px;
+      margin: 0 auto;
+      padding: 0 24px 80px;
+    }
+    section {
+      padding: 96px 0;
+      border-top: 1px solid var(--line);
+    }
+    section.hero {
+      border-top: 0;
+      min-height: 92vh;
+      display: flex;
+      align-items: center;
+      padding: 72px 0;
+    }
+    h1 {
+      margin: 0 0 24px;
+      font-size: clamp(42px, 6vw, 64px);
+      line-height: 1.05;
+      font-weight: 300;
+      letter-spacing: -0.04em;
+    }
+    h2 {
+      margin: 0 0 12px;
+      font-size: 44px;
+      line-height: 1.08;
+      font-weight: 300;
+      letter-spacing: -0.03em;
+    }
+    p.lead {
+      margin: 0 0 56px;
+      color: var(--muted);
+      font-size: 19px;
+      line-height: 1.7;
+    }
+    p.meta, .meta p {
+      margin: 0;
+      color: var(--soft);
+      font-size: 12px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      line-height: 1.7;
+    }
+    .italic-note {
+      margin: 0;
+      color: var(--soft);
+      font-size: 18px;
+      font-style: italic;
+    }
+    .body-copy {
+      margin: 0;
+      color: var(--muted);
+      font-size: 18px;
+      line-height: 1.7;
+    }
+    .body-copy + .body-copy { margin-top: 6px; }
+
+    .dot-wrap {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      align-items: center;
+      margin-bottom: 24px;
+    }
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 24px;
+      margin-bottom: 56px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .legend-divider {
+      border-left: 1px solid var(--line);
+      padding-left: 24px;
+    }
+    .dot { border-radius: 999px; opacity: .85; }
+    .dot.s1 { width: 12px; height: 12px; }
+    .dot.s2 { width: 20px; height: 20px; }
+    .dot.s3 { width: 28px; height: 28px; }
+    .urban { background: #1f2937; }
+    .multi { background: #4b5563; }
+    .suburban { background: #9ca3af; }
+    .rural { background: #d1d5db; }
+
+    .cards-row {
+      display: flex;
+      gap: 20px;
+      overflow-x: auto;
+      padding-bottom: 8px;
+      margin-bottom: 56px;
+    }
+    .card {
+      flex: 0 0 260px;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 24px;
+      background: white;
+    }
+    .card .type {
+      margin: 0 0 8px;
+      color: var(--soft);
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: .14em;
+    }
+    .card h3 {
+      margin: 0 0 16px;
+      font-size: 15px;
+      line-height: 1.45;
+      font-weight: 500;
+    }
+    .card ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      display: grid;
+      gap: 10px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.55;
+    }
+    .card li { display: flex; gap: 8px; align-items: flex-start; }
+    .card li::before {
+      content: "";
+      width: 4px;
+      height: 4px;
+      margin-top: 8px;
+      border-radius: 999px;
+      background: #d1d5db;
+      flex: 0 0 auto;
+    }
+
+    .heatmap-wrap {
+      position: relative;
+      overflow-x: auto;
+      margin-bottom: 24px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 12px;
+    }
+    th, td {
+      border: 1px solid var(--line);
+      padding: 14px 12px;
+      text-align: center;
+      vertical-align: middle;
+    }
+    thead th, tbody th {
+      background: var(--panel);
+      color: var(--muted);
+      font-weight: 500;
+    }
+    tbody th {
+      text-align: left;
+    }
+    .cell-number {
+      font-weight: 700;
+      color: #1f2937;
+      font-size: 18px;
+      line-height: 1.2;
+    }
+    .cell-topic {
+      margin-top: 4px;
+      color: #4b5563;
+      font-size: 12px;
+      line-height: 1.25;
+    }
+    .tooltip {
+      position: fixed;
+      display: none;
+      z-index: 999;
+      width: 290px;
+      padding: 12px;
+      border: 1px solid #d1d5db;
+      border-radius: 10px;
+      background: #fff;
+      box-shadow: 0 8px 24px rgba(0,0,0,.12);
+      color: #374151;
+      font-size: 12px;
+      line-height: 1.5;
+      pointer-events: none;
+    }
+
+    .metric-list {
+      display: grid;
+      gap: 28px;
+      margin-bottom: 56px;
+    }
+    .metric-card {
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 18px 18px 16px;
+      background: white;
+    }
+    .metric-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 16px;
+      margin-bottom: 18px;
+    }
+    .metric-name {
+      font-size: 16px;
+      font-weight: 600;
+      color: #374151;
+    }
+    .metric-range {
+      font-size: 12px;
+      color: var(--soft);
+      text-align: right;
+    }
+    .metric-bars {
+      display: grid;
+      gap: 10px;
+    }
+    .metric-row {
+      display: grid;
+      grid-template-columns: 1fr 84px;
+      align-items: center;
+      gap: 12px;
+    }
+    .bar-track {
+      position: relative;
+      height: 13px;
+      border-radius: 999px;
+      background: var(--bar-bg);
+      overflow: hidden;
+    }
+    .bar-fill {
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      background: var(--bar-fill);
+      border-radius: 999px;
+    }
+    .target-line {
+      position: absolute;
+      top: 50%;
+      width: 1px;
+      height: 18px;
+      background: #9ca3af;
+      transform: translateY(-50%);
+    }
+    .metric-value {
+      color: #6b7280;
+      font-size: 12px;
+      text-align: right;
+    }
+    .metric-meta {
+      margin-top: 10px;
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      color: #9ca3af;
+      font-size: 11px;
+      line-height: 1.5;
+    }
+
+    .commit-note, .small-note {
+      color: #9ca3af;
+      font-size: 12px;
+      line-height: 1.65;
+      margin: 0 0 40px;
+    }
+    .commit-table-wrap {
+      overflow-x: auto;
+      margin-bottom: 10px;
+    }
+    .dotmark {
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      border-radius: 999px;
+      background: #374151;
+    }
+    .density-list {
+      display: grid;
+      gap: 12px;
+      margin-bottom: 10px;
+    }
+    .density-row {
+      display: grid;
+      grid-template-columns: 160px 1fr 24px;
+      align-items: center;
+      gap: 16px;
+    }
+    .density-label, .density-count {
+      font-size: 12px;
+      color: var(--soft);
+    }
+    .density-count { text-align: right; }
+    .density-track {
+      height: 6px;
+      border-radius: 999px;
+      background: var(--bar-bg);
+      overflow: hidden;
+    }
+    .density-fill {
+      height: 100%;
+      background: #9ca3af;
+      border-radius: 999px;
+    }
+
+    .ending-copy { color: #374151; font-size: 18px; line-height: 1.7; }
+    .ending-copy em { color: #9ca3af; font-style: italic; }
+
+    @media (max-width: 720px) {
+      .container { padding: 0 16px 56px; }
+      section { padding: 72px 0; }
+      h2 { font-size: 34px; }
+      .metric-row { grid-template-columns: 1fr 64px; }
+      .density-row { grid-template-columns: 120px 1fr 24px; gap: 10px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <section class="hero">
+      <div>
+        <h1>Two Days. 40+ Operators.<br>One Pattern.</h1>
+        <p class="lead">An executive synthesis of what surfaced in the room — and where fixed operations quietly break down.</p>
+        <div class="meta">
+          <p>January 2026 · NADA 20 Group GC06 · Atlanta</p>
+          <p>Prepared independently from meeting materials, SOPs, and transcripts</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>The Room</h2>
+      <p class="lead">19 dealer organizations · single-point and multi-rooftop · mixed markets</p>
+      <div class="dot-wrap" id="roomDots"></div>
+      <div class="legend">
+        <span class="legend-item"><span class="dot s1 urban"></span>Urban</span>
+        <span class="legend-item"><span class="dot s1 multi"></span>Multi-rooftop</span>
+        <span class="legend-item"><span class="dot s1 suburban"></span>Suburban</span>
+        <span class="legend-item"><span class="dot s1 rural"></span>Rural</span>
+        <span class="legend-item legend-divider">Dot size = relative scale</span>
+      </div>
+      <p class="italic-note">Insights drawn from a structurally diverse operator group.</p>
+    </section>
+
+    <section>
+      <h2>What the Room Agreed On</h2>
+      <p class="lead">X-axis = Topics · Y-axis = Meeting Part (1–5) · Color intensity = discussion density · Hover for quotes</p>
+      <div class="heatmap-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th style="text-align:left;min-width:110px;">Meeting Part</th>
+              <th>Dispatching</th>
+              <th>HR / RO</th>
+              <th>Lost Sales</th>
+              <th>SOPs</th>
+              <th>Inventory</th>
+              <th>Digital</th>
+            </tr>
+          </thead>
+          <tbody id="heatmapBody"></tbody>
+        </table>
+      </div>
+      <p class="small-note">Counts are approximate mention / discussion-turn counts mapped to topics for each meeting part. (Max cell value = 15)</p>
+      <p class="italic-note">The group is aligned on what matters.</p>
+    </section>
+
+    <section>
+      <h2>What the Playbooks Already Cover</h2>
+      <p class="lead">Advisor onboarding, SOPs, scripts, checklists, workflows</p>
+      <div class="cards-row" id="playbookCards"></div>
+      <p class="body-copy">The industry already knows how to run a high-performing service operation.</p>
+      <p class="body-copy"><em>Knowledge is not the constraint.</em></p>
+    </section>
+
+    <section>
+      <h2>Where Performance Still Varies</h2>
+      <p class="lead">Same knowledge. Different outcomes.</p>
+      <div class="metric-list" id="metricList"></div>
+      <p class="italic-note">Same knowledge. Different outcomes.</p>
+    </section>
+
+    <section>
+      <h2>What Each Dealership Committed To</h2>
+      <p class="lead">Post-meeting execution priorities captured directly from the room. Numbers indicate dealership codes.</p>
+      <div class="commit-table-wrap">
+        <table>
+          <thead>
+            <tr id="commitHeadRow">
+              <th style="text-align:left;min-width:160px;">Theme</th>
+            </tr>
+          </thead>
+          <tbody id="commitBody"></tbody>
+        </table>
+      </div>
+      <p class="commit-note">Rows = execution themes · Columns = dealer codes · <span class="dotmark" style="vertical-align:middle;margin:0 4px;"></span> = commitment made by that dealership</p>
+      <div class="density-list" id="densityList"></div>
+      <p class="commit-note">Bar length = number of dealerships that committed to each theme · Number on right = dealership count</p>
+      <p class="body-copy">Despite differences in store size and market,</p>
+      <p class="body-copy"><em>priorities converged quickly.</em></p>
+    </section>
+
+    <section>
+      <h2>Where Execution Quietly Breaks</h2>
+      <p class="lead">The loop looks complete. The gaps are invisible.</p>
+      <svg viewBox="0 0 100 80" style="width:100%;height:auto;max-height:320px;display:block;margin-bottom:56px;">
+        <line x1="15.5" y1="40" x2="24.5" y2="40" stroke="#d1d5db" stroke-width="0.4" stroke-dasharray="1.2 0.8"></line>
+        <line x1="35.5" y1="40" x2="44.5" y2="40" stroke="#9ca3af" stroke-width="0.6"></line>
+        <line x1="55.5" y1="40" x2="64.5" y2="40" stroke="#d1d5db" stroke-width="0.4" stroke-dasharray="1.2 0.8"></line>
+        <line x1="75.5" y1="40" x2="84.5" y2="40" stroke="#d1d5db" stroke-width="0.4" stroke-dasharray="1.2 0.8"></line>
+
+        <g><circle cx="10" cy="40" r="5.5" fill="white" stroke="#9ca3af" stroke-width="0.5"></circle><text x="10" y="40" text-anchor="middle" dominant-baseline="middle" font-size="2.2" fill="#374151">Decision</text></g>
+        <g><circle cx="30" cy="40" r="5.5" fill="white" stroke="#9ca3af" stroke-width="0.5"></circle><text x="30" y="40" text-anchor="middle" dominant-baseline="middle" font-size="2.2" fill="#374151">Owner</text></g>
+        <g><circle cx="50" cy="40" r="5.5" fill="white" stroke="#9ca3af" stroke-width="0.5"></circle><text x="50" y="40" text-anchor="middle" dominant-baseline="middle" font-size="2.2" fill="#374151">Action</text></g>
+        <g><circle cx="70" cy="40" r="5.5" fill="white" stroke="#9ca3af" stroke-width="0.5"></circle><text x="70" y="40" text-anchor="middle" dominant-baseline="middle" font-size="2.2" fill="#374151">Measurement</text></g>
+        <g><circle cx="90" cy="40" r="5.5" fill="white" stroke="#9ca3af" stroke-width="0.5"></circle><text x="90" y="40" text-anchor="middle" dominant-baseline="middle" font-size="2.2" fill="#374151">Follow-up</text></g>
+
+        <g><line x1="20" y1="32" x2="20" y2="34.5" stroke="#d1d5db" stroke-width="0.4"></line><text x="20" y="28" text-anchor="middle" font-size="2" fill="#9ca3af">After meetings</text></g>
+        <g><line x1="60" y1="32" x2="60" y2="34.5" stroke="#d1d5db" stroke-width="0.4"></line><text x="60" y="28" text-anchor="middle" font-size="2" fill="#9ca3af">Between</text><text x="60" y="31" text-anchor="middle" font-size="2" fill="#9ca3af">depts &amp; shifts</text></g>
+        <g><line x1="80" y1="32" x2="80" y2="34.5" stroke="#d1d5db" stroke-width="0.4"></line><text x="80" y="28" text-anchor="middle" font-size="2" fill="#9ca3af">Between</text><text x="80" y="31" text-anchor="middle" font-size="2" fill="#9ca3af">systems</text></g>
+      </svg>
+      <div style="display:grid;gap:8px;margin-bottom:56px;color:#9ca3af;font-size:14px;">
+        <div>— After meetings</div>
+        <div>— Between departments</div>
+        <div>— Between shifts</div>
+        <div>— Between systems</div>
+      </div>
+      <p class="body-copy" style="color:#374151;">Most failures occur between steps, not within them.</p>
+      <p class="body-copy"><em>The system doesn't remember. People are forced to.</em></p>
+    </section>
+
+    <section>
+      <h2>What This Group Is Actually Ready For</h2>
+      <p class="lead">The pattern is already visible.</p>
+      <svg viewBox="0 0 100 52" style="width:100%;height:auto;max-height:260px;display:block;margin-bottom:56px;">
+        <text x="2" y="14" font-size="2.2" fill="#9ca3af">Before</text>
+        <text x="2" y="38" font-size="2.2" fill="#9ca3af">After</text>
+        <circle cx="20" cy="14" r="4" fill="white" stroke="#9ca3af" stroke-width="0.5"></circle>
+        <text x="20" y="14" text-anchor="middle" dominant-baseline="middle" font-size="2" fill="#374151">Decision</text>
+        <line x1="24.2" y1="14" x2="62" y2="14" stroke="#d1d5db" stroke-width="0.5" stroke-dasharray="1.5 1"></line>
+        <text x="43" y="11.5" text-anchor="middle" font-size="2" fill="#d1d5db">Drift</text>
+        <circle cx="66" cy="14" r="5.5" fill="white" stroke="#d1d5db" stroke-width="0.5" stroke-dasharray="1 0.6"></circle>
+        <text x="66" y="14" text-anchor="middle" dominant-baseline="middle" font-size="2" fill="#9ca3af">Next Meeting</text>
+        <circle cx="20" cy="38" r="4" fill="white" stroke="#6b7280" stroke-width="0.5"></circle>
+        <text x="20" y="38" text-anchor="middle" dominant-baseline="middle" font-size="2" fill="#374151">Decision</text>
+        <line x1="24.2" y1="38" x2="41.8" y2="38" stroke="#6b7280" stroke-width="0.6"></line>
+        <circle cx="46" cy="38" r="5.5" fill="white" stroke="#6b7280" stroke-width="0.5"></circle>
+        <text x="46" y="38" text-anchor="middle" dominant-baseline="middle" font-size="2" fill="#374151">Reinforcement</text>
+        <line x1="51.5" y1="38" x2="63.8" y2="38" stroke="#6b7280" stroke-width="0.6"></line>
+        <circle cx="68" cy="38" r="4.5" fill="white" stroke="#6b7280" stroke-width="0.5"></circle>
+        <text x="68" y="38" text-anchor="middle" dominant-baseline="middle" font-size="2" fill="#374151">Adjustment</text>
+      </svg>
+      <p class="body-copy" style="color:#374151;">The next advantage won't come from more meetings or more tools.</p>
+      <p class="body-copy"><em>It will come from shortening the distance between intent and execution.</em></p>
+    </section>
+  </div>
+
+  <div class="tooltip" id="tooltip"></div>
+
+  <script>
+    const dealers = [
+      { code: "01", scale: 2, market: "suburban" },
+      { code: "02", scale: 2, market: "urban" },
+      { code: "04", scale: 3, market: "suburban" },
+      { code: "05", scale: 1, market: "rural" },
+      { code: "06", scale: 3, market: "urban" },
+      { code: "07", scale: 1, market: "rural" },
+      { code: "11", scale: 2, market: "suburban" },
+      { code: "12", scale: 2, market: "urban" },
+      { code: "14", scale: 2, market: "suburban" },
+      { code: "16", scale: 3, market: "urban" },
+      { code: "17", scale: 1, market: "rural" },
+      { code: "20", scale: 2, market: "suburban" },
+      { code: "21", scale: 2, market: "suburban" },
+      { code: "23", scale: 1, market: "rural" },
+      { code: "24", scale: 3, market: "urban" },
+      { code: "26", scale: 3, market: "multi" },
+      { code: "27", scale: 2, market: "suburban" },
+      { code: "28", scale: 3, market: "multi" },
+      { code: "41", scale: 3, market: "multi" },
+    ];
+
+    const heatmapTopics = ["Dispatching", "HR / RO", "Lost Sales", "SOPs", "Inventory", "Digital"];
+    const matrix = {
+      "Meeting 1": {
+        "Dispatching": 3, "HR / RO": 10, "Lost Sales": 2, "SOPs": 6, "Inventory": 12, "Digital": 8,
+        quotes: {
+          "Dispatching": "Centralized dispatch improved flow and fairness (Paul).",
+          "HR / RO": "If a tech is sitting, it's a system failure.",
+          "Lost Sales": "Declined service = manager opportunity (TO process).",
+          "SOPs": "Daily huddle & scoreboard guidance noted.",
+          "Inventory": "Preloading parts is huge... print weekly special order parts...",
+          "Digital": "QR code + digital menus idea (Alex)."
+        }
+      },
+      "Meeting 2": {
+        "Dispatching": 3, "HR / RO": 6, "Lost Sales": 1, "SOPs": 8, "Inventory": 10, "Digital": 4,
+        quotes: {
+          "Dispatching": "Dispatch books and manual processes remain in many shops.",
+          "HR / RO": "Personnel expense disparities discussed — impact on absorption.",
+          "Lost Sales": "Track declines due to discounts.",
+          "SOPs": "Policy control and weekly reviews were emphasized.",
+          "Inventory": "Parts ordering accuracy reduces rental costs (Riverton SOP).",
+          "Digital": "PAM/AI call ideas discussed."
+        }
+      },
+      "Meeting 3": {
+        "Dispatching": 3, "HR / RO": 12, "Lost Sales": 2, "SOPs": 8, "Inventory": 5, "Digital": 6,
+        quotes: {
+          "Dispatching": "Used car team rework freed capacity for main shop.",
+          "HR / RO": "Tool Guard and labor rate restructuring produced large productivity gains.",
+          "Lost Sales": "Decline recovery queue recommended.",
+          "SOPs": "Onboarding and mentor program recommendations noted.",
+          "Inventory": "Bin counts and perpetuals discussed.",
+          "Digital": "Digital engagement improved inspection consistency."
+        }
+      },
+      "Meeting 4": {
+        "Dispatching": 2, "HR / RO": 15, "Lost Sales": 1, "SOPs": 6, "Inventory": 7, "Digital": 4,
+        quotes: {
+          "Dispatching": "Central dispatch vs team dispatch debate.",
+          "HR / RO": "Peak focus on proficiency: 'Frequent walk-throughs every 30 minutes...'",
+          "Lost Sales": "Manager TO on large declines.",
+          "SOPs": "Daily accountability and scoreboards.",
+          "Inventory": "Preloading & parts-runner processes.",
+          "Digital": "Phone/BDC issues and platform friction (DealerFX complaint)."
+        }
+      },
+      "Meeting 5": {
+        "Dispatching": 3, "HR / RO": 5, "Lost Sales": 2, "SOPs": 7, "Inventory": 13, "Digital": 10,
+        quotes: {
+          "Dispatching": "Recon process and used-car flow.",
+          "HR / RO": "Flexible schedules with guardrails discussed.",
+          "Lost Sales": "Lost sales tracking and emergency purchases.",
+          "SOPs": "Service advisor orientation & checklists emphasized.",
+          "Inventory": "Special order parts are dead dollars until installed.",
+          "Digital": "PAM AI + QR menus and Google Business Profile optimization."
+        }
+      }
+    };
+
+    const playbooks = [
+      {
+        title: "Service Advisor Onboarding",
+        type: "Orientation Tool",
+        items: [
+          "Dealership & OEM policies walkthrough",
+          "DMS logins and warranty claims process",
+          "Road to the sale — write-up to delivery",
+          "Phone etiquette and customer communication standards",
+          "MPI presentation and declined repair follow-up"
+        ]
+      },
+      {
+        title: "Advisor Best Practices",
+        type: "Checklist · 50 items",
+        items: [
+          "Pre-pull service history before customer arrives",
+          "Vehicle walkaround with every customer",
+          "MPI attached to every RO",
+          "Status update promised and delivered",
+          "Next appointment scheduled at pickup"
+        ]
+      },
+      {
+        title: "How to Increase Hours per RO",
+        type: "7-Step Process",
+        items: [
+          "Primary & secondary menu — train with role play",
+          "Video MPI for every vehicle",
+          "Present payment options",
+          "Pre-sell from BDC before arrival",
+          "Walk around, check history, ask for the sale"
+        ]
+      },
+      {
+        title: "Sales-to-Service Handoff Script",
+        type: "Word Track",
+        items: [
+          "Factory-trained technicians introduction",
+          "Genuine GM parts and diagnostic tools",
+          "Competitive pricing positioning",
+          "Resale value and maintenance records pitch",
+          "First appointment scheduled before customer leaves"
+        ]
+      },
+      {
+        title: "Special Order Parts (SOR) Process",
+        type: "Workflow · 7 Steps",
+        items: [
+          "Order part → part arrives → log to spreadsheet",
+          "BDC calls customer and books appointment",
+          "Vehicle comes in, part installed",
+          "Remove from spreadsheet on completion",
+          "Parts held 60 days, then returned or sold"
+        ]
+      },
+      {
+        title: "Menu Pricing Structure",
+        type: "SOP",
+        items: [
+          "Oil changes, filters, wipers — fixed price",
+          "Brake fluid, transmission, coolant flushes",
+          "Differential and transfer case services",
+          "Fuel injection and induction services",
+          "Four-wheel alignment"
+        ]
+      }
+    ];
+
+    const metrics = [
+      {
+        label: "Technician Proficiency",
+        unit: "%",
+        low: 76,
+        high: 169,
+        values: [76, 76, 81, 84, 87, 87, 90, 90, 103, 105, 105, 112, 113, 117, 118, 121, 125, 169],
+        source: "November Proficiency Numbers [DATA].csv"
+      },
+      {
+        label: "Service Absorption",
+        unit: "%",
+        low: 14,
+        high: 48,
+        values: [14, 23, 24, 25, 26, 26, 27, 29, 29, 32, 33, 34, 34, 35, 38, 43, 48],
+        source: "Absorption for Service and Parts [DATA].csv"
+      },
+      {
+        label: "Parts Inventory Turn",
+        unit: "%",
+        low: 16,
+        high: 60,
+        values: [16, 19, 28, 28, 29, 31, 35, 41, 42, 44, 47, 53, 54, 59, 60, 60],
+        source: "Parts Inventory $ Turn [DATA].csv"
+      },
+      {
+        label: "Recon Days",
+        unit: "days",
+        low: 4,
+        high: 10,
+        values: [4, 5, 5, 6, 6, 7, 7, 10, 10],
+        target: 3,
+        source: "Used Vehicle Days to Breakeven After Recon [DATA].csv"
+      },
+      {
+        label: "Hours per RO",
+        unit: "hrs",
+        low: 1.6,
+        high: 3.2,
+        values: [1.6, 3.2],
+        note: "Quick lane vs. main shop",
+        source: "Steps to Increase Hours per RO [TEXT].txt · Meeting transcripts"
+      }
+    ];
+
+    const themes = [
+      "Hours per RO",
+      "Video MPI",
+      "Sales-to-Service Handoff",
+      "Phone / Customer Contact",
+      "Parts & Inventory",
+      "Labor Gross / Rate",
+      "Quick Lane Separation"
+    ];
+    const commitments = {
+      "41": [5],
+      "28": [0, 1],
+      "27": [2],
+      "26": [4, 1, 0, 6],
+      "24": [2],
+      "23": [3]
+    };
+
+    function heatColor(v) {
+      const ratio = Math.min(1, v / 15);
+      const g = Math.round(255 - 200 * ratio);
+      return `rgb(255, ${g}, ${g})`;
+    }
+
+    function formatValue(v, unit) {
+      return `${v}${unit}`;
+    }
+
+    const roomDots = document.getElementById('roomDots');
+    dealers.forEach(d => {
+      const el = document.createElement('div');
+      el.className = `dot s${d.scale} ${d.market}`;
+      el.title = `Dealer ${d.code} · ${d.market}`;
+      roomDots.appendChild(el);
+    });
+
+    const heatmapBody = document.getElementById('heatmapBody');
+    const tooltip = document.getElementById('tooltip');
+    Object.keys(matrix).forEach(meeting => {
+      const tr = document.createElement('tr');
+      const th = document.createElement('th');
+      th.textContent = meeting;
+      tr.appendChild(th);
+      heatmapTopics.forEach(topic => {
+        const v = matrix[meeting][topic];
+        const td = document.createElement('td');
+        td.style.background = heatColor(v);
+        td.innerHTML = `<div class="cell-number">${v}</div><div class="cell-topic">${topic}</div>`;
+        td.addEventListener('mousemove', e => {
+          tooltip.style.display = 'block';
+          tooltip.style.left = (e.pageX + 12) + 'px';
+          tooltip.style.top = (e.pageY + 12) + 'px';
+          tooltip.innerHTML = `<strong>${topic}</strong> — <em>${meeting}</em><br><strong>Count:</strong> ${v}<br><br><em>Representative:</em><div style="margin-top:6px;color:#555">${matrix[meeting].quotes[topic]}</div>`;
+        });
+        td.addEventListener('mouseleave', () => tooltip.style.display = 'none');
+        tr.appendChild(td);
+      });
+      heatmapBody.appendChild(tr);
+    });
+
+    const playbookCards = document.getElementById('playbookCards');
+    playbooks.forEach(p => {
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = `
+        <p class="type">${p.type}</p>
+        <h3>${p.title}</h3>
+        <ul>${p.items.map(item => `<li>${item}</li>`).join('')}</ul>
+      `;
+      playbookCards.appendChild(card);
+    });
+
+    const metricList = document.getElementById('metricList');
+    metrics.forEach(m => {
+      const card = document.createElement('div');
+      card.className = 'metric-card';
+      const sorted = [...m.values].sort((a,b) => a-b);
+      const count = sorted.length;
+      const rangeText = m.note ? m.note : `${m.low}${m.unit} — ${m.high}${m.unit}${m.target != null ? ` · target ${m.target}${m.unit}` : ''}`;
+      const rows = sorted.map(v => {
+        const pct = ((v - m.low) / (m.high - m.low)) * 100;
+        const target = m.target != null ? ((m.target - m.low) / (m.high - m.low)) * 100 : null;
+        return `
+          <div class="metric-row">
+            <div class="bar-track">
+              ${target != null ? `<div class="target-line" style="left:${target}%;"></div>` : ''}
+              <div class="bar-fill" style="width:${pct}%;"></div>
+            </div>
+            <div class="metric-value">${formatValue(v, m.unit)}</div>
+          </div>
+        `;
+      }).join('');
+      card.innerHTML = `
+        <div class="metric-head">
+          <div class="metric-name">${m.label}</div>
+          <div class="metric-range">${rangeText}</div>
+        </div>
+        <div class="metric-bars">${rows}</div>
+        <div class="metric-meta">
+          <span>Count: ${count}</span>
+          <span>Source: ${m.source}</span>
+        </div>
+      `;
+      metricList.appendChild(card);
+    });
+
+    const commitDealers = Object.keys(commitments).sort();
+    const headRow = document.getElementById('commitHeadRow');
+    commitDealers.forEach(d => {
+      const th = document.createElement('th');
+      th.textContent = d;
+      headRow.appendChild(th);
+    });
+
+    const commitBody = document.getElementById('commitBody');
+    themes.forEach((theme, ti) => {
+      const tr = document.createElement('tr');
+      const tdTheme = document.createElement('td');
+      tdTheme.textContent = theme;
+      tdTheme.style.textAlign = 'left';
+      tdTheme.style.color = '#6b7280';
+      tr.appendChild(tdTheme);
+      commitDealers.forEach(d => {
+        const td = document.createElement('td');
+        if (commitments[d].includes(ti)) td.innerHTML = '<span class="dotmark"></span>';
+        tr.appendChild(td);
+      });
+      commitBody.appendChild(tr);
+    });
+
+    const density = themes.map((_, ti) => commitDealers.reduce((sum, d) => sum + (commitments[d].includes(ti) ? 1 : 0), 0));
+    const maxDensity = Math.max(...density);
+    const densityList = document.getElementById('densityList');
+    themes.forEach((theme, i) => {
+      const row = document.createElement('div');
+      row.className = 'density-row';
+      row.innerHTML = `
+        <div class="density-label">${theme}</div>
+        <div class="density-track"><div class="density-fill" style="width:${(density[i]/maxDensity)*100}%;"></div></div>
+        <div class="density-count">${density[i]}</div>
+      `;
+      densityList.appendChild(row);
+    });
+  </script>
+</body>
+</html>
