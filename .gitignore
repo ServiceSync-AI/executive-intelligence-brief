@@ -49,3 +49,10 @@ htmlcov/
 tmp/
 temp/
 *.tmp
+xcuserdata/
+.Rhistory
+.~lock*
+webscraper_env/
+.env.local*
+*.pem
+*.key
